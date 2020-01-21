@@ -33,7 +33,8 @@ donations.map do |donation|
     [donation.id, donation.secure_id, donation.donor.name, donation.donor.email, donation.donation_total_in_dollars.to_f, donation.investment_total_in_dollars.to_f, donation.created_at, (donation.affiliate.name if donation.affiliate.present?), (donation.donatable.name if donation.donatable.present?), donation.donatable_type]
 end
 
-## tips and tricks: copy and paste chunk of code into clean tab on text editor and do "Find & Replace All" for every record "], [" to have them in separate lines (this will help you copy and paste into a spreadsheet better).
+-----------------------------------------
+tips and tricks: copy and paste chunk of code into clean tab on text editor and do "Find & Replace All" for every record "], [" to have them in separate lines (this will help you copy and paste into a spreadsheet better).
 -----------------------------------------
 
 # Sample Script to find all investment total in dollars in a certain timeframe:
@@ -46,7 +47,9 @@ donation_ids = donations.pluck(:id)
 
 ## map ids to print specific attributes
 donation_ids.map do |id|
+
   donation = Donation.find(id)
+
   [id, donation.secure_id, donation.user.name, donation.user.email, donation.investment_total_in_dollars.to_f, donation.created_at]
 end
 -----------------------------------------
