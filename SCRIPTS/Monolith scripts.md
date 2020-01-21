@@ -1,15 +1,15 @@
 # Sample Script to find all donations under one community:
 
 ## CLI commands 
-for monolith: $ heroku run bundle exec rails c -remote production
+for monolith: $ heroku run bundle exec rails c --remote production
 
 for hit:      $ heroku run rails c --app hit-server-production
 
 ## monolith remotes:
 
--remote production
+--remote production
 
--remote staging
+--remote staging
 
 ## hit remotes:
 
