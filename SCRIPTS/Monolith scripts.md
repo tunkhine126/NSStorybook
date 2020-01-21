@@ -53,7 +53,7 @@ end
 
 -----------------------------------------
 
-Sample script for donors that gave 6K+ in 2018:
+# Sample script for donors that gave 6K+ in 2018:
 
 ## of people that gave 6K+:
 donor_ids_by_amount = User.joins("LEFT JOIN donations ON users.id=donations.donor_id").where("donations.created_at BETWEEN '2018-01-01 00:00:00' AND '2018-12-31 23:59:59'").where("donations.donation_total_in_dollars >= 6000")
