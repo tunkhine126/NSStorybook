@@ -34,7 +34,10 @@ donations.map do |donation|
 end
 
 -----------------------------------------
-tips and tricks: copy and paste chunk of code into clean tab on text editor and do "Find & Replace All" for every record "], [" to have them in separate lines (this will help you copy and paste into a spreadsheet better).
+## tips and tricks: 
+
+copy and paste chunk of code into clean tab on text editor and do "Find & Replace All" for every record "], [" to have them in separate lines (this will help you copy and paste into a spreadsheet better).
+
 -----------------------------------------
 
 # Sample Script to find all investment total in dollars in a certain timeframe:
