@@ -61,7 +61,27 @@ donations.map do |donation|
 end
 
 -----------------------------------------
+## Update donation amounts
+
+### set a variable and find specific donation with given id
+
+donation = Donation.find(####)
+
+### update donation_total_in_dollars 
+
+donation.donation_total_in_dollars = ####
+
+### update investment_total_in_dollars 
+
+donation.investment_total_in_dollars = ####
+
+### then SAVE! 
+
+donation.save
+
+-----------------------------------------
 ## Tips and tricks: 
+
 
 copy and paste chunk of code into clean tab on text editor and do "Find & Replace All" for every record "], [" to have them in separate lines (this will help you copy and paste into a spreadsheet better).
 
@@ -70,7 +90,7 @@ copy and paste chunk of code into clean tab on text editor and do "Find & Replac
 ## Sample Script to find all investment total in dollars in a certain timeframe:
 
 ### find all donations in 2018
-donations = Donation.where("donations.created_at BETWEEN '2018-01-01 00:00:00' AND '2018-12-31 23:59:59'").where("donations.investment_total_in_dollars > 0")
+donations = Donation.where("donations.created_at BETWEEN '2019-01-01 00:00:00' AND '2019-12-31 23:59:59'").where("donations.investment_total_in_dollars > 0")
 
 ### pluck donation_ids
 donation_ids = donations.pluck(:id)
