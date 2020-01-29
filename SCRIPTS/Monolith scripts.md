@@ -89,8 +89,11 @@ copy and paste chunk of code into clean tab on text editor and do "Find & Replac
 
 ## Sample Script to find all investment total in dollars in a certain timeframe:
 
-### find all donations in 2018
+### find all donations in 2019
 donations = Donation.where("donations.created_at BETWEEN '2019-01-01 00:00:00' AND '2019-12-31 23:59:59'").where("donations.investment_total_in_dollars > 0")
+
+### find all processed donations in 2019
+donations = Donation.processed_donations.where("donations.created_at BETWEEN '2019-01-01 00:00:00' AND '2019-12-31 23:59:59'")
 
 ### pluck donation_ids
 donation_ids = donations.pluck(:id)
@@ -103,10 +106,10 @@ end
 
 -----------------------------------------
 
-## Sample script for donors that gave 6K+ in 2018:
+## Sample script for donors that gave a specific amount in 2019:
 
-### of people that gave 6K+:
-donor_ids_by_amount = User.joins("LEFT JOIN donations ON users.id=donations.donor_id").where("donations.created_at BETWEEN '2018-01-01 00:00:00' AND '2018-12-31 23:59:59'").where("donations.donation_total_in_dollars >= 6000")
+### of people that gave 0+:
+donor_ids_by_amount = User.joins("LEFT JOIN donations ON users.id=donations.donor_id").where("donations.created_at BETWEEN '2019-01-01 00:00:00' AND '2019-12-31 23:59:59'").where("donations.donation_total_in_dollars + donations.investment_total_in_dollars > 0")
 
 donor_ids = donor_ids_by_amount
 
@@ -118,3 +121,21 @@ donation_ids.map do |id|
   donation = Donation.find(id)
   [donation.secure_id, donation.donation_total_in_dollars.to_f, donation.investment_total_in_dollars.to_f, donation.created_at]
 end
+
+## Sample script for donors that gave a donation + investment - specific amount in 2019:
+
+### of people that gave 0+:
+donor_ids_by_amount = User.joins("LEFT JOIN donations ON users.id=donations.donor_id").where("donations.created_at BETWEEN '2019-01-01 00:00:00' AND '2019-12-31 23:59:59'").where("donations.donation_total_in_dollars + donations.investment_total_in_dollars > 0")
+
+
+### Search by collection 
+Collection.find_by(slug: "pacific-sothebys")
+ - Collection id: 22
+
+or using the "friendly" gem
+
+Collection.friendly.find("pacific-sothebys")
+
+### Simple join between the Home and Collection models where the collection_id is "22"
+
+homes = Home.joins(:collections).where("collection_homes.collection_id = 22")
