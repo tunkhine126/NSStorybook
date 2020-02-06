@@ -10,13 +10,3 @@ user = User.find(id)
 end 
 
 ## testing 
-
-final = donor_ids.map do |id|
-user = User.find(id)
-[id, user.name, user.email, user.donations.where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck(:donation_total_in_dollars, :investment_total_in_dollars).sum] 
-end 
-
-donor_ids.map do |id|
-user = User.find(id)
-[id, user.name, user.email, user.donations.where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck((:donation_total_in_dollars).sum.to_f, :investment_total_in_dollars).sum] 
-end

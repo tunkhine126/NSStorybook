@@ -6,5 +6,5 @@ donor_ids = donor_ids_by_amount
 
 donor_ids.map do |id|
 user = User.find(id)
-[id, user.first_name, user.last_name, user.email, user.donations.processed_donations.where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck(:donation_total_in_dollars).sum.to_f, user.donations.processed_donations.where.not(investment_total_in_dollars: nil).where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck(:investment_total_in_dollars).sum.to_f, user.secure_id] 
+  [id, user.first_name, user.last_name, user.email, user.donations.processed_donations.where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck(:donation_total_in_dollars).sum.to_f, user.donations.processed_donations.where.not(investment_total_in_dollars: nil).where("created_at BETWEEN '2019-01-01 00:00:00' and '2019-12-31 23:59:59'").pluck(:investment_total_in_dollars).sum.to_f, user.secure_id] 
 end 
