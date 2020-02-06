@@ -2,9 +2,10 @@
 
 ### Search by collection 
 collection = Collection.find_by(slug: "pacific-sothebys")
- - Collection id: 22
 
-or using the "friendly" gem
+#### returns Collection id: 22
+
+### or using the "friendly" gem
 
 collection = Collection.friendly.find("pacific-sothebys")
 
