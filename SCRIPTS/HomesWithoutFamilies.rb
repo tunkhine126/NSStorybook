@@ -1,7 +1,7 @@
 ## Script to find homes without familes
 
 ### Grab all homes ids
-all_homes = Homes.all.pluck(:id)
+all_homes = Home.all.pluck(:id)
 
 ### Map over the ids to extract specific information
 all_homes.map do |id| 
