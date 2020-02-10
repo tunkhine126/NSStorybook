@@ -18,3 +18,14 @@ donation.donor_id = xxxx
 # Save the change and double check the via the monolith dashboard (Specfically the change is reflected in the User's donation page)
 
 donation.save 
+
+# Once you've moved all the donations into the single source of truth account you can move to delete the duplicate accounts. 
+
+user = User.find(xxxx)
+
+# make sure you check that donations are no longer associated before you delete
+
+user.delete 
+
+# You may run into an issue where the user id is associated with an Activity. If that is the case, find the Activities associated with the user id. Then change them to match the correct user id.
+
