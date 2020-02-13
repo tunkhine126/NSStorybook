@@ -101,7 +101,7 @@ donation_ids = donations.pluck(:id)
 ### map ids to print specific attributes
 donation_ids.map do |id|
   donation = Donation.find(id)
-  [id, donation.secure_id, donation.user.name, donation.user.email, donation.investment_total_in_dollars.to_f, donation.created_at]
+  [id, donation.secure_id, donation.user.first_name, donation.user.last_name, donation.user.email, donation.donation_total_in_dollars.to_f,donation.investment_total_in_dollars.to_f, donation.created_at, (donation.affiliate.name if donation.affiliate.present?) , (donation.donatable.name if donation.donatable.present?), donation.donatable_type]
 end
 
 -----------------------------------------
