@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MultiSelectValidation /> Should render and match the snapshot 1`] = `
+<div
+  class="NSMultiSelect__ComponentStyle-sc-1sbmilg-0 curCdr"
+>
+  <div
+    class="MuiFormControl-root makeStyles-size-267"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="test-selector-selector"
+    >
+      Test Selector
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-266 MuiInputBase-formControl"
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby=" mui-component-select-test-selector"
+        class="MuiSelect-root makeStyles-root-272 MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+        id="mui-component-select-test-selector"
+        role="button"
+        tabindex="0"
+      >
+        <div
+          class="makeStyles-chips-268"
+        >
+          <div
+            class="MuiChip-root makeStyles-chip-269 MuiChip-colorPrimary MuiChip-deletableColorPrimary MuiChip-deletable"
+            id="blue-chip"
+            role="button"
+            tabindex="0"
+          >
+            <span
+              class="MuiChip-label"
+            >
+              <span
+                class="makeStyles-chipLabelContainer-270"
+              >
+                <span>
+                  blue
+                </span>
+              </span>
+            </span>
+            <svg
+              class="makeStyles-chipClearBtn-271 MuiChip-deleteIcon MuiChip-deleteIconColorPrimary"
+              fill="none"
+              height="13"
+              viewBox="0 0 12 12"
+              width="13"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M9.5 3.205L8.795 2.5L6 5.295L3.205 2.5L2.5 3.205L5.295 6L2.5 8.795L3.205 9.5L6 6.705L8.795 9.5L9.5 8.795L6.705 6L9.5 3.205Z"
+                fill="white"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <input
+        id="test-selector-selector"
+        name="test-selector"
+        type="hidden"
+        value="blue"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-247 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-248"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

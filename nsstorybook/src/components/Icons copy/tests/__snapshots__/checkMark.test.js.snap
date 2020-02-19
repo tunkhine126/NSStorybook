@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CheckMark /> Should render and match the snapshot 1`] = `
+<svg
+  fill="none"
+  height="20"
+  viewBox="0 0 18 14"
+  width="20"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path
+    clip-rule="evenodd"
+    d="M6.06644 10.5751L2.21644 6.72506L0.933105 8.0084L6.06644 13.1417L17.0664 2.14173L15.7831 0.858398L6.06644 10.5751Z"
+    fill="#00BAE0"
+    fill-rule="evenodd"
+  />
+</svg>
+`;

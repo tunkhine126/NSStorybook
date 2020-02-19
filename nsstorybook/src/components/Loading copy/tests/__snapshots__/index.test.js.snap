@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loading /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-container-105 MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+  >
+    <div
+      aria-label="animation"
+      role="button"
+      style="width: 50px; height: 50px; overflow: hidden; margin: 0px auto; outline: none;"
+      tabindex="0"
+      title=""
+    >
+      <svg
+        height="500"
+        preserveAspectRatio="xMidYMid slice"
+        style="width: 100%; height: 100%; transform: translate3d(0,0,0);"
+        viewBox="0 0 500 500"
+        width="500"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <defs>
+          <clippath
+            id="__lottie_element_22"
+          >
+            <rect
+              height="500"
+              width="500"
+              x="0"
+              y="0"
+            />
+          </clippath>
+        </defs>
+        <g
+          clip-path="url(#__lottie_element_22)"
+        >
+          <g
+            style="display: none;"
+          >
+            <g>
+              <path />
+            </g>
+          </g>
+          <g
+            style="display: none;"
+          >
+            <g>
+              <path />
+            </g>
+          </g>
+          <g
+            style="display: none;"
+          >
+            <g>
+              <path />
+            </g>
+          </g>
+          <g
+            opacity="1"
+            style="display: block;"
+            transform="matrix(1,0,0,1,249,250)"
+          >
+            <g
+              opacity="1"
+              transform="matrix(1,0,0,1,0,0)"
+            >
+              <path
+                d=" M-78,-233.5 C-78,-233.5 -218,-233.5 -218,-233.5 C-218,-233.5 100.25,232 100.25,232 C100.25,232 217.10000610351562,231.89599609375 217.10000610351562,231.89599609375 C217.10000610351562,231.89599609375 217,200.5 217,200.5 C217,200.5 -78,-233.5 -78,-233.5z"
+                fill="rgb(0,0,0)"
+                fill-opacity="1"
+              />
+            </g>
+          </g>
+          <g
+            opacity="1"
+            style="display: block;"
+            transform="matrix(1.0184400081634521,0,0,1.1380000114440918,575.5169677734375,220.61326599121094)"
+          >
+            <g
+              opacity="1"
+              transform="matrix(1,0,0,1,-161.76699829101562,25.211000442504883)"
+            >
+              <path
+                d=" M54.23350143432617,-204.00999450683594 C54.23350143432617,-204.00999450683594 54.23350143432617,204.00999450683594 54.23350143432617,204.00999450683594 C54.23350143432617,204.00999450683594 -54.23350143432617,204.00999450683594 -54.23350143432617,204.00999450683594 C-54.23350143432617,204.00999450683594 -54.23350143432617,-204.00999450683594 -54.23350143432617,-204.00999450683594 C-54.23350143432617,-204.00999450683594 54.23350143432617,-204.00999450683594 54.23350143432617,-204.00999450683594z"
+                fill="rgb(0,0,0)"
+                fill-opacity="1"
+              />
+            </g>
+          </g>
+          <g
+            opacity="1"
+            style="display: block;"
+            transform="matrix(-1,0,0,-1.0229300260543823,-73.03399658203125,493.742431640625)"
+          >
+            <g
+              opacity="1"
+              transform="matrix(1,0,0,1,-161.76699829101562,120.48999786376953)"
+            >
+              <path
+                d=" M54.23350143432617,-109.01000213623047 C54.23350143432617,-109.01000213623047 54.23350143432617,109.01000213623047 54.23350143432617,109.01000213623047 C54.23350143432617,109.01000213623047 -54.23350143432617,109.01000213623047 -54.23350143432617,109.01000213623047 C-54.23350143432617,109.01000213623047 -54.23350143432617,-109.01000213623047 -54.23350143432617,-109.01000213623047 C-54.23350143432617,-109.01000213623047 54.23350143432617,-109.01000213623047 54.23350143432617,-109.01000213623047z"
+                fill="rgb(0,0,0)"
+                fill-opacity="1"
+              />
+            </g>
+          </g>
+        </g>
+      </svg>
+    </div>
+  </div>
+</div>
+`;

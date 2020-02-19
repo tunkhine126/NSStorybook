@@ -1,0 +1,553 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CoreSettings /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-tsColumns-1465 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-8"
+>
+  <span
+    class="MuiTypography-root makeStyles-caption-1424 MuiTypography-caption MuiTypography-gutterBottom"
+  >
+    Columns
+  </span>
+  <div
+    class="MuiGrid-root makeStyles-tsColumnsContainer-1473 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1624"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1623 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Family
+          </p>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1654"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1653 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Family ID
+          </p>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1656"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1655 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Completed Surveys
+          </p>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1658"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1657 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Family Members
+          </p>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1660"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1659 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Community
+          </p>
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+    >
+      <span
+        class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1631 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-1451 PrivateSwitchBase-checked-1632 Mui-checked MuiIconButton-colorSecondary"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <input
+              checked=""
+              class="PrivateSwitchBase-input-1634"
+              data-indeterminate="false"
+              type="checkbox"
+              value=""
+            />
+            <svg
+              fill="none"
+              font-size="default"
+              height="16"
+              viewBox="0 0 16 16"
+              width="16"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                clip-rule="evenodd"
+                d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+                fill="#00BAE0"
+                fill-rule="evenodd"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </span>
+      </span>
+      <div
+        class="MuiListItemText-root makeStyles-root-1662"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary makeStyles-primary-1661 MuiTypography-body1"
+        >
+          <p
+            class="makeStyles-listItemText-1450"
+          >
+            Last Update
+          </p>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-tsActionBtns-1472 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-1663 makeStyles-primary-1664 makeStyles-tsReorder-1487"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        Re-Order...
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-1663 makeStyles-primary-1664 makeStyles-tsAddField-1474"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-tsAddIcon-1471"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+          />
+        </svg>
+        Field
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<NSTable /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-sc-1k9bobu-7 jIFXXN"
+>
+  <div
+    class="styles__SelectFormatStyle-sc-1k9bobu-6 fIEHTG"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Completed Surveys"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-940 MuiButton-outlined makeStyles-btnWidth-937"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-941"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Completed Surveys
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Community"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-956 MuiButton-outlined makeStyles-btnWidth-938"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-957"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Community
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Last Update"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-958 MuiButton-outlined makeStyles-btnWidth-939"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-959"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Last Update
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

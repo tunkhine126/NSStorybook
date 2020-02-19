@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ListItemLink /> Should render and match the snapshot 1`] = `
+<a
+  aria-disabled="false"
+  class="MuiButtonBase-root MuiListItem-root ComposerOpen-listItem-64 MuiListItem-gutters MuiListItem-button"
+  href="/dashboard"
+  role="button"
+  tabindex="0"
+>
+  <div
+    class="MuiListItemIcon-root"
+  />
+  <div
+    class="MuiListItemText-root"
+  >
+    <span
+      class="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
+    >
+      <span>
+        Dashboard
+      </span>
+    </span>
+  </div>
+  <svg
+    aria-hidden="true"
+    class="MuiSvgIcon-root"
+    focusable="false"
+    role="presentation"
+    viewBox="0 0 24 24"
+  >
+    <path
+      d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+    />
+  </svg>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</a>
+`;

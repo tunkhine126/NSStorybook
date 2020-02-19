@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Widget /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root makeStyles-paper-313 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <p
+    class="MuiTypography-root makeStyles-widgetHeader-324 makeStyles-widgetPadding-325 MuiTypography-body1 MuiTypography-gutterBottom"
+  >
+    Test Header
+  </p>
+  <hr
+    class="MuiDivider-root MuiDivider-light"
+  />
+  <div
+    class="styles__ExpansionPanelStyle-qa8k4k-9 iyqZhl"
+  >
+    <div>
+      Test Content
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-light"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-addBtn-273 MuiButton-textPrimary makeStyles-textPrimary-498"
+        style="margin-right: auto; pointer-events: initial;"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label makeStyles-label-497"
+        >
+          <span>
+            Add Recipient
+          </span>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

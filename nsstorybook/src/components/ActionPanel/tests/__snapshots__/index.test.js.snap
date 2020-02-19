@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ActionPanel /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3 MuiGrid-grid-xl-2"
+>
+  <div
+    class="makeStyles-panel-164"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-justify-xs-center"
+    >
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-confirmBtn-165 MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge"
+        form="test"
+        tabindex="0"
+        type="submit"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <span>
+            Save
+          </span>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-cancelBtn-163"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          <span>
+            Cancel
+          </span>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

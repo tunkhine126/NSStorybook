@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NSInput /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__ComponentStyle-zscvjs-0 iXrycp"
+>
+  <div
+    class="MuiFormControl-root MuiTextField-root"
+  >
+    <div
+      class="MuiInputBase-root MuiInput-root makeStyles-root-41 MuiInputBase-formControl MuiInput-formControl"
+    >
+      <input
+        aria-invalid="false"
+        class="MuiInputBase-input MuiInput-input"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PaginationControls /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between MuiGrid-grid-xs-10"
+>
+  <div
+    class="MuiGrid-root makeStyles-numbeOfRequests-23 MuiGrid-item"
+  >
+    <p
+      class="MuiTypography-root makeStyles-dataResults-10 MuiTypography-body2 MuiTypography-colorInherit"
+    >
+      50
+       
+      <span>
+        of
+      </span>
+    </p>
+    <p
+      class="MuiTypography-root MuiTypography-body2 MuiTypography-colorInherit"
+    >
+      100
+       
+      <span>
+        requests
+      </span>
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-btn-200 MuiButton-textPrimary makeStyles-textPrimary-293 Mui-disabled Mui-disabled"
+      disabled=""
+      id="prev-btn"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label makeStyles-label-292"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-paginationLeftArrow-24 MuiSvgIcon-fontSizeInherit"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M11.67 3.87L9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+          />
+        </svg>
+        <span>
+          Prev
+        </span>
+      </span>
+    </button>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root paginationPageInput MuiFormControl-marginNormal"
+        >
+          <div
+            class="MuiInputBase-root MuiOutlinedInput-root Mui-disabled Mui-disabled MuiInputBase-formControl"
+          >
+            <input
+              aria-invalid="false"
+              aria-label="Page Number"
+              class="MuiInputBase-input MuiOutlinedInput-input Mui-disabled Mui-disabled"
+              disabled=""
+              id="page-input"
+              maxlength="3"
+              type="number"
+              value="1"
+            />
+            <fieldset
+              aria-hidden="true"
+              class="PrivateNotchedOutline-root-282 MuiOutlinedInput-notchedOutline"
+              style="padding-left: 8px;"
+            >
+              <legend
+                class="PrivateNotchedOutline-legend-283"
+                style="width: 0.01px;"
+              >
+                <span>
+                  ​
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item"
+      >
+        <span>
+          of
+        </span>
+         
+        1
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-btn-200 MuiButton-textPrimary makeStyles-textPrimary-295 Mui-disabled Mui-disabled"
+      disabled=""
+      id="next-btn"
+      tabindex="-1"
+      type="button"
+    >
+      <span
+        class="MuiButton-label makeStyles-label-294"
+      >
+        <span>
+          Next
+        </span>
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-paginationRightArrow-25 MuiSvgIcon-fontSizeInherit"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M5.88 4.12L13.76 12l-7.88 7.88L8 22l10-10L8 2z"
+          />
+        </svg>
+      </span>
+    </button>
+  </div>
+</div>
+`;

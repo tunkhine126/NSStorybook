@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextLink /> Should render and match the snapshot 1`] = `
+<button
+  class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-btn-46 MuiButton-textPrimary makeStyles-textPrimary-48"
+  tabindex="0"
+  type="button"
+>
+  <span
+    class="MuiButton-label makeStyles-label-47"
+  >
+    Test
+  </span>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</button>
+`;

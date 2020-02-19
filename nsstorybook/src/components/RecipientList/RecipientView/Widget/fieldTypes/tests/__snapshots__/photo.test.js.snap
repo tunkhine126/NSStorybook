@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Photo /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <span
+    class="MuiTypography-root makeStyles-caption-116 MuiTypography-caption MuiTypography-gutterBottom"
+  >
+    License Photo
+  </span>
+  <button
+    class="MuiButtonBase-root MuiCardActionArea-root makeStyles-recipientChildImg-138"
+    tabindex="0"
+    type="button"
+  >
+    <img
+      alt="License Photo"
+      class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img"
+      height="100%"
+      src="IMAGE_MOCK"
+      title="License Photo"
+    />
+    <p
+      class="makeStyles-imgActionText-139 img-action-text"
+    >
+      Click to change photo
+    </p>
+    <input
+      accept="image/jpeg, image/png, image/tiff, image/ief, image/gif"
+      type="file"
+    />
+    <span
+      class="MuiCardActionArea-focusHighlight"
+    />
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </button>
+</div>
+`;

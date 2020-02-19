@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TwoColumns /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-twoColumns-209 MuiGrid-container"
+>
+  <div
+    class="MuiGrid-root makeStyles-colContainer-166 MuiGrid-item MuiGrid-grid-xs-6"
+  >
+    <p>
+      Test
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-colContainer-166 MuiGrid-item MuiGrid-grid-xs-6"
+  >
+    <p>
+      Test2
+    </p>
+  </div>
+</div>
+`;

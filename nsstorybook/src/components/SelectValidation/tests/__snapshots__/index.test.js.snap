@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SelectValidation /> Should render and match the snapshot 1`] = `
+<div
+  class="NSSelect__ComponentStyle-sc-1pe1cg7-0 ikAthF"
+>
+  <div
+    class="MuiFormControl-root makeStyles-size-98"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+      data-shrink="true"
+      for="test-selector-selector"
+    >
+      Test Selector
+    </label>
+    <div
+      class="MuiInputBase-root MuiOutlinedInput-root makeStyles-root-97 MuiInputBase-formControl"
+    >
+      <div
+        aria-haspopup="listbox"
+        aria-labelledby=" mui-component-select-test-selector"
+        class="MuiSelect-root makeStyles-root-100 MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+        id="mui-component-select-test-selector"
+        role="button"
+        tabindex="0"
+      >
+        No
+      </div>
+      <input
+        id="test-selector-selector"
+        name="test-selector"
+        type="hidden"
+        value="No"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+        focusable="false"
+        role="presentation"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+      <fieldset
+        aria-hidden="true"
+        class="PrivateNotchedOutline-root-181 MuiOutlinedInput-notchedOutline"
+        style="padding-left: 8px;"
+      >
+        <legend
+          class="PrivateNotchedOutline-legend-182"
+          style="width: 0.01px;"
+        >
+          <span>
+            ​
+          </span>
+        </legend>
+      </fieldset>
+    </div>
+  </div>
+</div>
+`;

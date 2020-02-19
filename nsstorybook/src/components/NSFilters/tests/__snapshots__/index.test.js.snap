@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Wrapper /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-d41tga-0 fOaZlY"
+>
+  <div
+    class="styles__SelectFormatStyle-d41tga-1 jtUZje"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-285 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+          >
+            <span
+              class="MuiTypography-root makeStyles-caption-278 MuiTypography-caption"
+            />
+            <button
+              aria-controls="Completed Surveys"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-429 MuiButton-outlined makeStyles-btnWidth-287"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-430"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Completed Surveys
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-424"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-285 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+          >
+            <span
+              class="MuiTypography-root makeStyles-caption-278 MuiTypography-caption"
+            />
+            <button
+              aria-controls="Community"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-467 MuiButton-outlined makeStyles-btnWidth-288"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-468"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Community
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-424"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-285 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+          >
+            <span
+              class="MuiTypography-root makeStyles-caption-278 MuiTypography-caption"
+            />
+            <button
+              aria-controls="Last Update"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-469 MuiButton-outlined makeStyles-btnWidth-289"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-470"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Last Update
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-424"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

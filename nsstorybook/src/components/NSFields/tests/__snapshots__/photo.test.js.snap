@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Photo /> Should render and match the snapshot 1`] = `
+<div
+  class="makeStyles-dropzone-156 dropzone"
+  tabindex="0"
+>
+  <input
+    accept="image/jpeg, image/png, image/tiff, image/ief, image/gif"
+    autocomplete="off"
+    multiple=""
+    style="display: none;"
+    tabindex="-1"
+    type="file"
+  />
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root makeStyles-icon-157"
+      focusable="false"
+      role="presentation"
+      viewBox="0 0 24 24"
+    >
+      <circle
+        cx="12"
+        cy="12"
+        r="3.2"
+      />
+      <path
+        d="M9 2L7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"
+      />
+    </svg>
+    <p
+      class="MuiTypography-root makeStyles-caption-155 MuiTypography-body1 MuiTypography-gutterBottom"
+    >
+      Photo Test
+    </p>
+  </div>
+</div>
+`;

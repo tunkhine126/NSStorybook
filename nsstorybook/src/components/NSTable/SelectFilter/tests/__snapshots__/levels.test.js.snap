@@ -1,0 +1,223 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LevelSelect /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-multiSelectContainer-5 MuiGrid-container MuiGrid-align-items-xs-flex-start"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root makeStyles-root-12"
+    >
+      <div
+        class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedStart"
+      >
+        <div
+          class="MuiInputAdornment-root MuiInputAdornment-positionStart"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+            />
+          </svg>
+        </div>
+        <input
+          aria-invalid="false"
+          class="MuiInputBase-input MuiInput-input MuiInputBase-inputAdornedStart"
+          id="undefined-search"
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-reset-11 levels-reset MuiButton-textPrimary makeStyles-textPrimary-796"
+      tabindex="0"
+      type="button"
+    >
+      <span
+        class="MuiButton-label makeStyles-label-795"
+      >
+        Reset
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<NSTable /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-sc-1k9bobu-7 jIFXXN"
+>
+  <div
+    class="styles__SelectFormatStyle-sc-1k9bobu-6 fIEHTG"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-247 MuiGrid-item"
+        >
+          <button
+            aria-controls="Completed Surveys"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-684 MuiButton-outlined makeStyles-btnWidth-681"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-685"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Completed Surveys
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-2"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-247 MuiGrid-item"
+        >
+          <button
+            aria-controls="Community"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-690 MuiButton-outlined makeStyles-btnWidth-682"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-691"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Community
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-2"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-247 MuiGrid-item"
+        >
+          <button
+            aria-controls="Last Update"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-692 MuiButton-outlined makeStyles-btnWidth-683"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-693"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Last Update
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-2"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

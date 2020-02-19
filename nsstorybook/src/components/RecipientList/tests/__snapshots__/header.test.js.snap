@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container"
+>
+  <div
+    class="MuiGrid-root makeStyles-cardContainer-361 MuiGrid-item MuiGrid-grid-xs-2"
+  >
+    <div
+      class="MuiPaper-root MuiCard-root makeStyles-headerImg-381 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <img
+        alt="Test"
+        height="100%"
+        src="IMAGE_MOCK"
+        title="Test"
+      />
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-navContainer-384 MuiGrid-container MuiGrid-item"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-row-reverse"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-8"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-flex-end"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-539"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                />
+              </svg>
+              Country
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-moreBtn-385 MuiButton-textPrimary makeStyles-textPrimary-587"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-586"
+            >
+              More...
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-recipientInfo-378 MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <h1
+          class="MuiTypography-root makeStyles-recipientName-375 MuiTypography-h1"
+        >
+          Test
+        </h1>
+        <span
+          class="MuiTypography-root makeStyles-recipientId-376 MuiTypography-caption"
+        >
+          3erf23-r323d-gewf3-233
+        </span>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-end"
+    >
+      <header
+        class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorDefault makeStyles-appBar-353 MuiPaper-elevation4"
+      >
+        <div
+          aria-label="Recipient List Tabs"
+          class="MuiTabs-root"
+        >
+          <div
+            class="MuiTabs-scroller MuiTabs-fixed"
+            style="overflow: hidden;"
+          >
+            <div
+              class="MuiTabs-flexContainer"
+              role="tablist"
+            >
+              <button
+                aria-controls="Overview-control-tab"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tab-371"
+                id="Overview-tab"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Overview
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="Profile-control-tab"
+                aria-selected="true"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tab-371 Mui-selected"
+                id="Profile-tab"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Profile
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="Communities-control-tab"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tab-371"
+                id="Communities-tab"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Communities
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+              <button
+                aria-controls="Files-control-tab"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tab-371 Mui-disabled Mui-disabled"
+                disabled=""
+                id="Files-tab"
+                role="tab"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Files
+                </span>
+              </button>
+              <button
+                aria-controls="Impact-control-tab"
+                aria-selected="false"
+                class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary makeStyles-tab-371 Mui-disabled Mui-disabled"
+                disabled=""
+                id="Impact-tab"
+                role="tab"
+                tabindex="-1"
+                type="button"
+              >
+                <span
+                  class="MuiTab-wrapper"
+                >
+                  Impact
+                </span>
+              </button>
+            </div>
+            <span
+              class="PrivateTabIndicator-root-654 PrivateTabIndicator-colorPrimary-655 MuiTabs-indicator"
+              style="left: 0px; width: 0px;"
+            />
+          </div>
+        </div>
+      </header>
+    </div>
+  </div>
+</div>
+`;

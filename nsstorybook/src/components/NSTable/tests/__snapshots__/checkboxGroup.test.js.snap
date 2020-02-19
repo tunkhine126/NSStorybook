@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ColumnGroup /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start"
+>
+  <span
+    class="styles__CheckBoxWrapper-sc-1k9bobu-5 fcvwkw"
+  >
+    <span
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-417 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-listItemChkbox-268 PrivateSwitchBase-checked-418 Mui-checked MuiIconButton-colorSecondary"
+    >
+      <span
+        class="MuiIconButton-label"
+      >
+        <input
+          checked=""
+          class="PrivateSwitchBase-input-420"
+          data-indeterminate="false"
+          type="checkbox"
+          value=""
+        />
+        <svg
+          fill="none"
+          font-size="default"
+          height="16"
+          viewBox="0 0 16 16"
+          width="16"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M1.77778 0C0.8 0 0 0.8 0 1.77778V14.2222C0 15.2 0.8 16 1.77778 16H14.2222C15.2 16 16 15.2 16 14.2222V1.77778C16 0.8 15.2 0 14.2222 0H1.77778ZM1.77778 8.17094L3.02222 6.97436L6.22222 10.0513L12.9778 3.55556L14.2222 4.75214L6.22222 12.4444L1.77778 8.17094Z"
+            fill="#00BAE0"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </span>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </span>
+  </span>
+  <div
+    class="MuiListItemText-root makeStyles-root-307"
+  >
+    <span
+      class="MuiTypography-root MuiListItemText-primary makeStyles-primary-306 MuiTypography-body1"
+    >
+      <p
+        class="makeStyles-listItemText-267"
+      >
+        test2
+      </p>
+    </span>
+  </div>
+</div>
+`;

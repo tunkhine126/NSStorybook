@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InputValidation /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__ComponentStyle-zscvjs-0 iXrycp"
+>
+  <div
+    class="MuiFormControl-root MuiTextField-root makeStyles-input-48 makeStyles-root-52 MuiFormControl-marginNormal"
+  >
+    <div
+      class="MuiInputBase-root MuiFilledInput-root makeStyles-root-53 MuiInputBase-formControl"
+    >
+      <input
+        aria-invalid="false"
+        class="MuiInputBase-input MuiFilledInput-input"
+        id="test2"
+        name="test2"
+        type="text"
+        value="test"
+      />
+    </div>
+  </div>
+</div>
+`;

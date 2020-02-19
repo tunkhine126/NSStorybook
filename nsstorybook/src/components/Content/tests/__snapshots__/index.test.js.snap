@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Content /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root container MuiGrid-container MuiGrid-align-items-xs-flex-start"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+  >
+    <p
+      class="MuiTypography-root header MuiTypography-body1 MuiTypography-gutterBottom"
+    >
+      <span>
+        Test Component
+      </span>
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+    >
+      <span>
+        Test Component
+      </span>
+    </div>
+  </div>
+</div>
+`;

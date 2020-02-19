@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NSFields /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__ComponentStyle-zscvjs-0 iXrycp"
+>
+  <div
+    class="MuiFormControl-root MuiTextField-root makeStyles-input-973 makeStyles-root-977 MuiFormControl-marginNormal"
+  >
+    <label
+      class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-filled"
+      data-shrink="true"
+      for="shortText"
+      id="shortText-label"
+    >
+      Short Text
+    </label>
+    <div
+      class="MuiInputBase-root MuiFilledInput-root makeStyles-root-978 MuiInputBase-formControl MuiInputBase-adornedStart MuiFilledInput-adornedStart"
+    >
+      <div
+        class="MuiInputAdornment-root MuiInputAdornment-filled MuiInputAdornment-positionStart"
+      >
+        <p
+          style="min-width: 50px;"
+        >
+          TEST-FAMILY-
+        </p>
+      </div>
+      <input
+        aria-invalid="false"
+        class="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputAdornedStart MuiFilledInput-inputAdornedStart"
+        id="shortText"
+        name="shortText"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</div>
+`;

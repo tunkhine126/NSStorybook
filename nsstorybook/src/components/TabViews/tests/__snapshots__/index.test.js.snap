@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TabViews /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__ComponentStyle-sc-1ltc4o5-0 kyJKTp"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      class="MuiGrid-root makeStyles-navContainer-200 MuiGrid-container MuiGrid-item"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-row-reverse"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-flex-end MuiGrid-grid-xs-8"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-justify-xs-flex-end"
+          />
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-recipientInfo-201 MuiGrid-item MuiGrid-grid-xs-4"
+        >
+          <h1
+            class="MuiTypography-root makeStyles-recipientName-202 MuiTypography-h1"
+          />
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-end"
+      >
+        <header
+          class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorDefault makeStyles-appBar-196 MuiPaper-elevation4"
+        >
+          <div
+            aria-label="Recipient List Tabs"
+            class="MuiTabs-root"
+          >
+            <div
+              class="MuiTabs-scroller MuiTabs-fixed"
+              style="overflow: hidden;"
+            >
+              <div
+                class="MuiTabs-flexContainer"
+                role="tablist"
+              />
+              <span
+                class="PrivateTabIndicator-root-387 PrivateTabIndicator-colorPrimary-388 MuiTabs-indicator"
+                style="left: 0px; width: 0px;"
+              />
+            </div>
+          </div>
+        </header>
+      </div>
+    </div>
+  </div>
+  <div
+    class="styles__TabContentStyle-sc-1ltc4o5-1 eCWgGo"
+  >
+    <div
+      style="overflow-x: hidden;"
+    >
+      <div
+        class="react-swipeable-view-container"
+        style="flex-direction: row; transition: all 0s ease 0s; direction: ltr; display: flex; will-change: transform;"
+      >
+        <div
+          aria-hidden="false"
+          data-swipeable="true"
+          style="width: 100%; flex-shrink: 0; overflow: auto;"
+        >
+          Test Tab
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

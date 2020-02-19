@@ -1,0 +1,325 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NSTable /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-sc-1k9bobu-7 jIFXXN"
+>
+  <div
+    class="styles__SelectFormatStyle-sc-1k9bobu-6 fIEHTG"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Completed Surveys"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-940 MuiButton-outlined makeStyles-btnWidth-937"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-941"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Completed Surveys
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Community"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-956 MuiButton-outlined makeStyles-btnWidth-938"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-957"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Community
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Last Update"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-958 MuiButton-outlined makeStyles-btnWidth-939"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-959"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Last Update
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<NSTableBody /> Should render and match the snapshot 1`] = `
+<table
+  class="MuiTable-root"
+>
+  <tbody
+    class="MuiTableBody-root"
+  >
+    <tr
+      aria-checked="false"
+      class="MuiTableRow-root MuiTableRow-hover"
+      style="height: 72px;"
+      tabindex="-1"
+    >
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            Rodriguez
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            SV-NUEVO_CASCATLAN-SV-NUEVO_CASCATLAN_23158
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            1
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            3
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          />
+        </div>
+      </td>
+    </tr>
+    <tr
+      aria-checked="false"
+      class="MuiTableRow-root MuiTableRow-hover"
+      style="height: 72px;"
+      tabindex="-1"
+    >
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            Kalumbo
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            SV-MEXICO_CASCATLAN_23158
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            10
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            8
+          </div>
+        </div>
+      </td>
+      <td
+        class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-1267"
+        scope="row"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

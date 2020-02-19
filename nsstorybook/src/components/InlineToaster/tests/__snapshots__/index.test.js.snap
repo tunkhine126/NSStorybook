@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<InlineToaser /> Should render and match the snapshot 1`] = `
+<span
+  class="inline-toaster styles__InlineToasterWrapper-sc-11dlxly-0 hCoZQG"
+>
+  <div
+    aria-describedby="toaster"
+    class="MuiPaper-root MuiSnackbarContent-root makeStyles-success-49 MuiPaper-elevation6"
+    role="alert"
+  >
+    <div
+      class="MuiSnackbarContent-message"
+    >
+      <span
+        class="makeStyles-message-55"
+        id="toaster"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-icon-53 makeStyles-iconVariant-54"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+</span>
+`;

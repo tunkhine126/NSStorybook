@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NSMenuItem /> Should render and match the snapshot 1`] = `
+<li
+  aria-disabled="false"
+  class="MuiButtonBase-root MuiListItem-root MuiMenuItem-root makeStyles-root-184 MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button"
+  role="menuitem"
+  tabindex="-1"
+>
+  <div
+    class="MuiListItemIcon-root"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root makeStyles-root-185"
+      focusable="false"
+      role="presentation"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+      />
+    </svg>
+  </div>
+  <div
+    class="MuiListItemText-root makeStyles-root-187"
+  >
+    <span
+      class="MuiTypography-root MuiListItemText-primary makeStyles-primary-186 MuiTypography-body1"
+    >
+      Sample
+    </span>
+  </div>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</li>
+`;

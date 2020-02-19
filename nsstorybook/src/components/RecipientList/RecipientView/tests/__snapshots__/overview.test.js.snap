@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<OverView /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-container-277 MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-space-between"
+>
+  <div
+    class="MuiGrid-root makeStyles-column1-287 MuiGrid-item"
+  >
+    <div
+      class="MuiPaper-root makeStyles-paper-315 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <p
+        class="MuiTypography-root makeStyles-widgetHeader-326 makeStyles-widgetPadding-327 MuiTypography-body1 MuiTypography-gutterBottom"
+      >
+        Communities
+      </p>
+      <hr
+        class="MuiDivider-root MuiDivider-light"
+      />
+      <div
+        class="styles__ExpansionPanelStyle-qa8k4k-9 iyqZhl"
+      >
+        <hr
+          class="MuiDivider-root MuiDivider-light"
+        />
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-addBtn-275 MuiButton-textPrimary makeStyles-textPrimary-500"
+            style="margin-right: auto; pointer-events: none; opacity: 0.5;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-499"
+            >
+              <span>
+                Add Recipient
+              </span>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-column2-288 MuiGrid-item"
+  >
+    <div
+      class="MuiPaper-root makeStyles-paper-315 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <p
+        class="MuiTypography-root makeStyles-widgetHeader-326 makeStyles-widgetPadding-327 MuiTypography-body1 MuiTypography-gutterBottom"
+      >
+        Snapshot
+      </p>
+      <hr
+        class="MuiDivider-root MuiDivider-light"
+      />
+      <div
+        class="styles__ExpansionPanelStyle-qa8k4k-9 iyqZhl"
+      >
+        <hr
+          class="MuiDivider-root MuiDivider-light"
+        />
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-addBtn-275 MuiButton-textPrimary makeStyles-textPrimary-534"
+            style="margin-right: auto; pointer-events: initial;"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-533"
+            >
+              <span>
+                Full Profile
+              </span>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-activityContainer-274 MuiGrid-item"
+  />
+</div>
+`;

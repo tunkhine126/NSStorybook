@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ViewHeader /> Should render and match the snapshot 1`] = `
+<h2
+  class="MuiTypography-root makeStyles-header-32 MuiTypography-h1 MuiTypography-gutterBottom"
+>
+  <div>
+    New Component
+  </div>
+</h2>
+`;

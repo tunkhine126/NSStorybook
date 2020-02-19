@@ -1,0 +1,299 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NSTable /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-sc-1k9bobu-7 jIFXXN"
+>
+  <div
+    class="styles__SelectFormatStyle-sc-1k9bobu-6 fIEHTG"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Completed Surveys"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-940 MuiButton-outlined makeStyles-btnWidth-937"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-941"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Completed Surveys
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Community"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-956 MuiButton-outlined makeStyles-btnWidth-938"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-957"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Community
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-553 MuiGrid-item"
+        >
+          <button
+            aria-controls="Last Update"
+            aria-haspopup="true"
+            class="MuiButtonBase-root MuiButton-root makeStyles-root-958 MuiButton-outlined makeStyles-btnWidth-939"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label makeStyles-label-959"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  Last Update
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <svg
+                    class="makeStyles-downArrow-695"
+                    data-custom="true"
+                    fill="none"
+                    height="9"
+                    viewBox="0 0 9 9"
+                    width="9"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                      fill=""
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </div>
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<NSTableHead /> Should render and match the snapshot 1`] = `
+<table
+  class="MuiTable-root"
+>
+  <thead
+    class="MuiTableHead-root makeStyles-tableHead-1215"
+  >
+    <tr
+      class="MuiTableRow-root makeStyles-tableHeadRow-1221 MuiTableRow-head"
+    >
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignLeft MuiTableCell-paddingNone"
+        scope="col"
+        width="380px"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiTableSortLabel-root"
+          role="button"
+          tabindex="0"
+        >
+          Family
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+            />
+          </svg>
+        </span>
+      </th>
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignLeft"
+        scope="col"
+        width="450px"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiTableSortLabel-root"
+          role="button"
+          tabindex="0"
+        >
+          Family ID
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+            />
+          </svg>
+        </span>
+      </th>
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignCenter MuiTableCell-paddingNone"
+        scope="col"
+        width="123px"
+      >
+        <p
+          class="MuiTypography-root makeStyles-nonSortableText-1198 MuiTypography-body1"
+          style="margin-left: -25px;"
+        >
+          Completed Surveys
+        </p>
+      </th>
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignCenter MuiTableCell-paddingNone"
+        scope="col"
+        width="100px"
+      >
+        <p
+          class="MuiTypography-root makeStyles-nonSortableText-1198 MuiTypography-body1"
+          style="margin-left: -25px;"
+        >
+          Family Members
+        </p>
+      </th>
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignCenter MuiTableCell-paddingNone"
+        scope="col"
+        width="auto"
+      >
+        <p
+          class="MuiTypography-root makeStyles-nonSortableText-1198 MuiTypography-body1"
+          style="margin-left: -25px;"
+        >
+          Community
+        </p>
+      </th>
+      <th
+        class="MuiTableCell-root makeStyles-root-1180 MuiTableCell-head makeStyles-tableHeadText-1216 makeStyles-stickyHeader-1218 MuiTableCell-alignCenter MuiTableCell-paddingNone"
+        scope="col"
+        width="180px"
+      >
+        <span
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiTableSortLabel-root"
+          role="button"
+          tabindex="0"
+        >
+          Last Update
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+            />
+          </svg>
+        </span>
+      </th>
+    </tr>
+    <tr
+      class="MuiTableRow-root MuiTableRow-head"
+    >
+      <th
+        class="MuiTableCell-root makeStyles-root-1247 MuiTableCell-head makeStyles-toolBarSticky-1220 makeStyles-stickyHeader-1218 MuiTableCell-paddingNone"
+        colspan="7"
+        scope="col"
+      />
+    </tr>
+  </thead>
+</table>
+`;

@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TabContent /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__TabContentStyle-qa8k4k-8 kybHyw"
+>
+  <div
+    style="overflow-x: hidden;"
+  >
+    <div
+      class="react-swipeable-view-container"
+      style="flex-direction: row; transition: all 0s ease 0s; direction: ltr; display: flex; will-change: transform;"
+    >
+      <div
+        aria-hidden="false"
+        data-swipeable="true"
+        style="width: 100%; flex-shrink: 0; overflow: auto;"
+      >
+        <div
+          class="MuiGrid-root makeStyles-container-279 MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-space-between"
+        >
+          <div
+            class="MuiGrid-root makeStyles-column1-289 MuiGrid-item"
+          >
+            <div
+              class="MuiPaper-root makeStyles-paper-317 MuiPaper-elevation1 MuiPaper-rounded"
+            >
+              <p
+                class="MuiTypography-root makeStyles-widgetHeader-328 makeStyles-widgetPadding-329 MuiTypography-body1 MuiTypography-gutterBottom"
+              >
+                Communities
+              </p>
+              <hr
+                class="MuiDivider-root MuiDivider-light"
+              />
+              <div
+                class="styles__ExpansionPanelStyle-qa8k4k-9 iyqZhl"
+              >
+                <hr
+                  class="MuiDivider-root MuiDivider-light"
+                />
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-addBtn-277 MuiButton-textPrimary makeStyles-textPrimary-502"
+                    style="margin-right: auto; pointer-events: none; opacity: 0.5;"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label makeStyles-label-501"
+                    >
+                      <span>
+                        Add Recipient
+                      </span>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-column2-290 MuiGrid-item"
+          >
+            <div
+              class="MuiPaper-root makeStyles-paper-317 MuiPaper-elevation1 MuiPaper-rounded"
+            >
+              <p
+                class="MuiTypography-root makeStyles-widgetHeader-328 makeStyles-widgetPadding-329 MuiTypography-body1 MuiTypography-gutterBottom"
+              >
+                Snapshot
+              </p>
+              <hr
+                class="MuiDivider-root MuiDivider-light"
+              />
+              <div
+                class="styles__ExpansionPanelStyle-qa8k4k-9 iyqZhl"
+              >
+                <hr
+                  class="MuiDivider-root MuiDivider-light"
+                />
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-center"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-addBtn-277 MuiButton-textPrimary makeStyles-textPrimary-536"
+                    style="margin-right: auto; pointer-events: initial;"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label makeStyles-label-535"
+                    >
+                      <span>
+                        Full Profile
+                      </span>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-activityContainer-276 MuiGrid-item"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
