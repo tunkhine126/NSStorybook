@@ -1,0 +1,397 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Should render Single Select graph type 1`] = `
+<div
+  class="MuiPaper-root makeStyles-root-753 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item"
+    >
+      <div
+        class="MuiGrid-root makeStyles-questionNumber-755 MuiGrid-item"
+      >
+        1
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <h6
+            class="MuiTypography-root makeStyles-questionTitle-757 MuiTypography-h6"
+          >
+            Test Card
+          </h6>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-version-760 MuiTypography-body1"
+          >
+            Version 1 - single select
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-question-754 MuiTypography-body1"
+          >
+            What is a test question?
+          </p>
+        </div>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root makeStyles-divider-744"
+    />
+    <div
+      class="MuiGrid-root makeStyles-chartContainer-745"
+    >
+      <div
+        class="MuiGrid-root makeStyles-container-931 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-932 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-933 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-930 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-934"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-929 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-935"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-936 MuiTypography-body1"
+              >
+                Test Options 1
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-937 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-container-940 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-941 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-942 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-939 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-943"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-938 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-944"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-945 MuiTypography-body1"
+              >
+                Test Options 2
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-946 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-container-949 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-950 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-951 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-948 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-952"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-947 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-953"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-954 MuiTypography-body1"
+              >
+                Test Options 3
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-955 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p
+      class="MuiTypography-root makeStyles-questionsAnswered-756 MuiTypography-body1"
+    >
+      0 out of 10 answered this question
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<Card /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiPaper-root makeStyles-root-965 MuiPaper-elevation1 MuiPaper-rounded"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-item"
+    >
+      <div
+        class="MuiGrid-root makeStyles-questionNumber-967 MuiGrid-item"
+      >
+        1
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <h6
+            class="MuiTypography-root makeStyles-questionTitle-969 MuiTypography-h6"
+          >
+            Test Card
+          </h6>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-version-972 MuiTypography-body1"
+          >
+            Version 1 - multi select
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-question-966 MuiTypography-body1"
+          >
+            What is a test question?
+          </p>
+        </div>
+      </div>
+    </div>
+    <hr
+      class="MuiDivider-root makeStyles-divider-956"
+    />
+    <div
+      class="MuiGrid-root makeStyles-chartContainer-957"
+    >
+      <div
+        class="MuiGrid-root makeStyles-container-1143 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-1144 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-1145 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-1142 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-1146"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-1141 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-1147"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-1148 MuiTypography-body1"
+              >
+                Test Options 1
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-1149 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-container-1152 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-1153 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-1154 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-1151 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-1155"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-1150 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-1156"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-1157 MuiTypography-body1"
+              >
+                Test Options 2
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-1158 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root makeStyles-container-1161 MuiGrid-container MuiGrid-align-items-xs-center"
+      >
+        <div
+          class="MuiGrid-root makeStyles-percentageContainer-1162 MuiGrid-item"
+        >
+          <p
+            class="MuiTypography-root makeStyles-percentageText-1163 MuiTypography-body1"
+          >
+            0
+            %
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-barContainer-1160 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+        >
+          <div
+            class="makeStyles-percentageBar-1164"
+          />
+          <div
+            class="MuiGrid-root makeStyles-barTextContainer-1159 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+          >
+            <div
+              class="MuiGrid-root makeStyles-responseContainer-1165"
+            >
+              <p
+                class="MuiTypography-root makeStyles-responseText-1166 MuiTypography-body1"
+              >
+                Test Options 3
+              </p>
+            </div>
+            <div
+              class="MuiGrid-root"
+            >
+              <p
+                class="MuiTypography-root makeStyles-numberOfResponses-1167 MuiTypography-body1"
+              >
+                0
+                 
+                Responses
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p
+      class="MuiTypography-root makeStyles-questionsAnswered-968 MuiTypography-body1"
+    >
+      0 out of 10 answered this question
+    </p>
+  </div>
+</div>
+`;

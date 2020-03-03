@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<LangSettings /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+>
+  <div
+    class="MuiGrid-root makeStyles-selectSpacing-216 MuiGrid-item"
+  >
+    <div
+      class="NSSelect__ComponentStyle-sc-1pe1cg7-0 ikAthF"
+    >
+      <div
+        class="MuiFormControl-root makeStyles-size-325"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+          for="default-survey-language-selector"
+        >
+          Default Survey Language
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby=" mui-component-select-default-survey-language"
+            class="MuiSelect-root makeStyles-root-327 MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+            id="mui-component-select-default-survey-language"
+            role="button"
+            tabindex="0"
+          >
+            us_en
+          </div>
+          <input
+            id="default-survey-language-selector"
+            name="default-survey-language"
+            type="hidden"
+            value="us_en"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-408 MuiOutlinedInput-notchedOutline"
+            style="padding-left: 8px;"
+          >
+            <legend
+              class="PrivateNotchedOutline-legend-409"
+              style="width: 0.01px;"
+            >
+              <span>
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item"
+  >
+    <div
+      class="NSSelect__ComponentStyle-sc-1pe1cg7-0 ikAthF"
+    >
+      <div
+        class="MuiFormControl-root makeStyles-size-412"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-filled"
+          data-shrink="true"
+          for="default-language-selector"
+        >
+          Default Language
+        </label>
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby=" mui-component-select-default-language"
+            class="MuiSelect-root makeStyles-root-414 MuiSelect-select MuiSelect-selectMenu MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input"
+            id="mui-component-select-default-language"
+            role="button"
+            tabindex="0"
+          >
+            English
+            <strong
+              class="makeStyles-infoKey-413"
+            >
+              (
+              English
+              )
+            </strong>
+          </div>
+          <input
+            id="default-language-selector"
+            name="default-language"
+            type="hidden"
+            value="en"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon MuiSelect-iconOutlined"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden="true"
+            class="PrivateNotchedOutline-root-408 MuiOutlinedInput-notchedOutline"
+            style="padding-left: 8px;"
+          >
+            <legend
+              class="PrivateNotchedOutline-legend-409"
+              style="width: 0.01px;"
+            >
+              <span>
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

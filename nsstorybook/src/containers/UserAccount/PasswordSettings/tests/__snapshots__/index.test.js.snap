@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PasswordSettings /> Should render and match the snapshot 1`] = `
+<h2
+  class="MuiTypography-root makeStyles-header-299 MuiTypography-h1 MuiTypography-gutterBottom"
+>
+  Change Your Password
+</h2>
+`;

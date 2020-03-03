@@ -1,0 +1,1143 @@
+{
+  "app.addRecipientChild": {
+    "en": "Add Recipient",
+    "es": "Agregar destinatario",
+    "pt": "Adicionar destinatário",
+    "ht": "Add Moun k ap resevwa"
+  },
+  "app.cancel": {
+    "en": "Cancel",
+    "es": "Cancelar",
+    "pt": "Cancelar",
+    "ht": "Anile"
+  },
+  "app.closeWindow": {
+    "en": "Close Window",
+    "es": "Cerrar ventana",
+    "pt": "Janela fechada",
+    "ht": "Fèmen fenèt"
+  },
+  "app.community": {
+    "en": "Community",
+    "es": "Comunidad",
+    "pt": "Comunidade",
+    "ht": "Kominote"
+  },
+  "app.completed": {
+    "en": "Completed",
+    "es": "Terminado",
+    "pt": "Concluído",
+    "ht": "Konplete"
+  },
+  "app.changePhoto": {
+    "en": "Click to change photo",
+    "es": "Haz clic para cambiar la foto.",
+    "pt": "Clique para mudar a foto",
+    "ht": "Klike pou chanje foto"
+  },
+  "app.create": {
+    "en": "Create",
+    "es": "Crear",
+    "pt": "Criar",
+    "ht": "Kreye"
+  },
+  "app.currentVersion": {
+    "en": "Current Version",
+    "es": "Versión actual",
+    "pt": "Versão Atual",
+    "ht": "Kouran Version"
+  },
+  "app.defaultView": {
+    "en": "Default View",
+    "es": "Vista predeterminada",
+    "pt": "Visualização padrão",
+    "ht": "Fòma Nòmal"
+  },
+  "app.deleteRecipient": {
+    "en": "Delete Recipient",
+    "es": "Eliminar destinatario",
+    "pt": "Excluir destinatário",
+    "ht": "Efase Benefisyè a"
+  },
+  "app.dropFile": {
+    "en": "Drop your file here ...",
+    "es": "Suelta tu archivo aquí ...",
+    "pt": "Solte seu arquivo aqui ...",
+    "ht": "Drop dosye ou isit la ..."
+  },
+  "app.files": {
+    "en": "Files",
+    "es": "Archivos",
+    "pt": "Arquivos",
+    "ht": "Fichye"
+  },
+  "app.fullProfile": {
+    "en": "Full Profile",
+    "es": "Perfil completo",
+    "pt": "Perfil completo",
+    "ht": "Pwofil Konplè"
+  },
+  "app.generalInfo": {
+    "en": "General Info",
+    "es": "Información general",
+    "pt": "Informações gerais",
+    "ht": "Info jeneral"
+  },
+  "app.impact": {
+    "en": "Impact",
+    "es": "Impacto",
+    "pt": "Impacto",
+    "ht": "Enpak"
+  },
+  "app.languages": {
+    "en": "Languages",
+    "es": "Idiomas",
+    "pt": "línguas",
+    "ht": "Lang"
+  },
+  "app.newFamily": {
+    "en": "New Family",
+    "es": "Nueva Familia",
+    "pt": "Nova família",
+    "ht": "Nouvo fanmi"
+  },
+  "app.overview": {
+    "en": "Overview",
+    "es": "Resumen",
+    "pt": "Resumo",
+    "ht": "Enfòmasyon Angwo"
+  },
+  "app.preview": {
+    "en": "Preview",
+    "es": "Avance",
+    "pt": "Pré-visualização",
+    "ht": "Preview"
+  },
+  "app.profile": {
+    "en": "Profile",
+    "es": "Perfil",
+    "pt": "Perfil",
+    "ht": "Pwofil"
+  },
+  "app.progressBarDesc": {
+    "en": "Progess Bar Description",
+    "es": "Descripción de la barra de progreso",
+    "pt": "Descrição da barra de progresso",
+    "ht": "Deskripsyon sou Ba Pwogrè a"
+  },
+  "app.newSurvey": {
+    "en": "New Survey",
+    "es": "Nueva Encuesta",
+    "pt": "Novo questionário",
+    "ht": "Nouvo Sondaj la"
+  },
+  "app.rtDashboard": {
+    "en": "Dashboard",
+    "es": "Tablero",
+    "pt": "Painel",
+    "ht": "Meni"
+  },
+  "app.rtSurveys": {
+    "en": "Surveys",
+    "es": "Encuestas",
+    "pt": "Questionário",
+    "ht": "Sondaj yo"
+  },
+  "app.rtSurveyTemplates": {
+    "en": "Survey Templates",
+    "es": "Plantillas de encuestas",
+    "pt": "Modelos de pesquisa",
+    "ht": "Modèl Sondaj la"
+  },
+  "app.rtSubmissions": {
+    "en": "Submissions",
+    "es": "Entregas",
+    "pt": "Submissões",
+    "ht": "Depo yo"
+  },
+  "app.rtRequests": {
+    "en": "Requests",
+    "es": "Solicitudes",
+    "pt": "Solicitaçãos",
+    "ht": "Demann"
+  },
+  "app.rtTemplates": {
+    "en": "Templates",
+    "es": "Plantillas",
+    "pt": "Modelos",
+    "ht": "Chema"
+  },
+  "app.rtFamily": {
+    "en": "Family",
+    "es": "Familia",
+    "pt": "Família",
+    "ht": "Fanmi"
+  },
+  "app.rtFamilies": {
+    "en": "Families",
+    "es": "Familias",
+    "pt": "Famílias",
+    "ht": "Fanmi yo"
+  },
+  "app.rtRecipientList": {
+    "en": "Family List",
+    "es": "Lista de familia",
+    "pt": "Lista de família",
+    "ht": "Lis Fanmi yo"
+  },
+  "app.rtRecipients": {
+    "en": "Recipients",
+    "es": "Destinatarios",
+    "pt": "Destinatários",
+    "ht": "Benefisyè yo"
+  },
+  "app.rtReports": {
+    "en": "Reports",
+    "es": "Reportes",
+    "pt": "Relatório",
+    "ht": "Rapò"
+  },
+  "app.rtSettings": {
+    "en": "Settings",
+    "es": "Ajustes",
+    "pt": "Configurações",
+    "ht": "Paramèt"
+  },
+  "app.rtOrg": {
+    "en": "Your Organization",
+    "es": "Tu organización",
+    "pt": "Sua organização",
+    "ht": "Òganizasyon Pa w"
+  },
+  "app.rtAccount": {
+    "en": "Your Account",
+    "es": "Tu cuenta",
+    "pt": "Sua conta",
+    "ht": "Kont Pa w"
+  },
+  "app.rtAccSettings": {
+    "en": "Account Settings",
+    "es": "Configuraciones de la cuenta",
+    "pt": "Configuração da conta",
+    "ht": "Paramèt yo pou Kont Pa w"
+  },
+  "app.rtPwdSettings": {
+    "en": "Password Settings",
+    "es": "Configuraciones de contraseña",
+    "pt": "Configurações de senha",
+    "ht": "Paramèt yo pou Modpas Ou"
+  },
+  "app.rtLogout": {
+    "en": "Log Out",
+    "es": "Cerrar sesión",
+    "pt": "Sair",
+    "ht": "Dekonekte"
+  },
+  "app.required": {
+    "en": "Required",
+    "es": "Necesario",
+    "pt": "Requeridos",
+    "ht": "Obligatwa"
+  },
+  "app.requiredField": {
+    "en": "Field is required",
+    "es": "Campo requerido",
+    "pt": "Este campo é obrigatório",
+    "ht": "Espas sa a obligatwa"
+  },
+  "app.removeImg": {
+    "en": "Remove Image",
+    "es": "Quita la imagen",
+    "pt": "Remover imagem",
+    "ht": "Retire Imaj"
+  },
+  "app.reports": {
+    "en": "Reports",
+    "es": "Informes",
+    "pt": "Relatórios",
+    "ht": "Rapò"
+  },
+  "app.en": {
+    "en": "EN",
+    "es": "EN",
+    "pt": "EN",
+    "ht": "EN"
+  },
+  "app.es": {
+    "en": "ES",
+    "es": "ES",
+    "pt": "ES",
+    "ht": "ES"
+  },
+  "app.edit": {
+    "en": "Edit",
+    "es": "Editar",
+    "pt": "Editar",
+    "ht": "Edit"
+  },
+  "app.fieldHistory": {
+    "en": "Field History",
+    "es": "Historia de campo",
+    "pt": "História do Campo",
+    "ht": "Istwa jaden"
+  },
+  "app.moreBtn": {
+    "en": "More...",
+    "es": "Más...",
+    "pt": "Mais...",
+    "ht": "Plis..."
+  },
+  "app.noSurveys": {
+    "en": "No surveys",
+    "es": "No hay encuestas",
+    "pt": "Nenhuma pesquisa",
+    "ht": "Pa gen sondaj"
+  },
+  "app.optionalFields": {
+    "en": "Optional Fields",
+    "es": "Campos opcionales",
+    "pt": "Campos opcionais",
+    "ht": "Fields Si ou vle"
+  },
+  "app.search": {
+    "en": "Search...",
+    "es": "Buscar...",
+    "pt": "Procurar",
+    "ht": "Chèche..."
+  },
+  "app.save": {
+    "en": "Save",
+    "es": "Guardar",
+    "pt": "Salvar",
+    "ht": "Sovgade"
+  },
+  "app.saved": {
+    "en": "Saved!",
+    "es": "¡Salvado!",
+    "pt": "Salvou!",
+    "ht": "Sove!"
+  },
+  "app.surveyor": {
+    "en": "Surveyor",
+    "es": "Topógrafo",
+    "pt": "Surveyor",
+    "ht": "Surveyor"
+  },
+  "app.submissions": {
+    "en": "Submissions",
+    "es": "Envíos",
+    "pt": "Submissões",
+    "ht": "Soumèt"
+  },
+  "app.translations": {
+    "en": "Translations",
+    "es": "Traducciones",
+    "pt": "Traduções",
+    "ht": "Tradiksyon"
+  },
+  "app.update": {
+    "en": "Update",
+    "es": "Actualizar",
+    "pt": "Atualizar",
+    "ht": "Fè Mizajou"
+  },
+  "app.undo": {
+    "en": "Undo",
+    "es": "Deshacer",
+    "pt": "Desfazer",
+    "ht": "Defèt"
+  },
+  "app.updateStatus": {
+    "en": "Update Status",
+    "es": "Estado de la actualización",
+    "pt": "Atualizar status",
+    "ht": "Mete Stati a Ajou"
+  },
+  "app.recipientID": {
+    "en": "Family ID",
+    "es": "ID de familia",
+    "pt": "ID da família",
+    "ht": "ID Fanmi an"
+  },
+  "app.reset": {
+    "en": "Reset",
+    "es": "Reiniciar",
+    "pt": "Reiniciar",
+    "ht": "Reyinisyalize"
+  },
+  "app.addFilters": {
+    "en": "Add Filters...",
+    "es": "Agregar filtros...",
+    "pt": "Adicionar filtros",
+    "ht": "Ajoute Filtè..."
+  },
+  "app.networkError": {
+    "en": "There seems to be a network issue. Please Try again.",
+    "es": "Parece que hay un problema de red. Inténtalo de nuevo.",
+    "pt": "Parece haver um problema de rede. Por favor, tente novamente.",
+    "ht": "Genlè gen yon pwoblèm rezo. Eseye yon lòt fwa ankò."
+  },
+  "app.version": {
+    "en": "Version",
+    "es": "Versión",
+    "pt": "Versão",
+    "ht": "Vèsyon"
+  },
+  "app.snapshot": {
+    "en": "Snapshot",
+    "es": "Resumen",
+    "pt": "Resumo",
+    "ht": "Ti Apèsi"
+  },
+  "app.address": {
+    "en": "Address",
+    "es": "Dirección",
+    "pt": "Endereço",
+    "ht": "Adrès"
+  },
+  "app.allFiles": {
+    "en": "All Files",
+    "es": "Todos los archivos",
+    "pt": "Todos os arquivos",
+    "ht": "Tout Fichye yo"
+  },
+  "app.compSurveys": {
+    "en": "Completed Surveys",
+    "es": "Encuestas completadas",
+    "pt": "Pesquisas concluídas",
+    "ht": "Sondaj ki Fin Fèt"
+  },
+  "app.daughter": {
+    "en": "Daughter",
+    "es": "Hija",
+    "pt": "Filha",
+    "ht": "Pitit Fi"
+  },
+  "app.editSurveyRequests": {
+    "en": "Edit Survey Requests",
+    "es": "Editar solicitudes de encuesta",
+    "pt": "Editar solicitações de pesquisa",
+    "ht": "Modifye Demann Sondaj yo"
+  },
+  "app.editFamily": {
+    "en": "Edit Family",
+    "es": "Editar familia",
+    "pt": "Editar Família",
+    "ht": "Edit Fanmi"
+  },
+  "app.lastUpdate": {
+    "en": "Last Update",
+    "es": "Última actualización",
+    "pt": "Última atualização",
+    "ht": "Dènye Mizajou"
+  },
+  "app.familyMemberCreated": {
+    "en": "Family Member Created!",
+    "es": "Miembro de la familia creado!",
+    "pt": "Membro da família criado!",
+    "ht": "Manm fanmi kreye!"
+  },
+  "app.recipientListHeader": {
+    "en": "Families",
+    "es": "Familias",
+    "pt": "Famílias",
+    "ht": "Fanmi yo"
+  },
+  "app.recipientChildren": {
+    "en": "Family Members",
+    "es": "Miembros de familia",
+    "pt": "Membros da família",
+    "ht": "Manm Fanmi yo"
+  },
+
+  "app.grandmother": {
+    "en": "Grandmother",
+    "es": "Abuela",
+    "pt": "Avó",
+    "ht": "Grann"
+  },
+  "app.grandfather": {
+    "en": "Grandfather",
+    "es": "Abuelo",
+    "pt": "Avô",
+    "ht": "Granpapa"
+  },
+  "app.headOfHousehold": {
+    "en": "Head of Household",
+    "es": "Jefe de hogar",
+    "pt": "Chefe de família",
+    "ht": "Chèf Fanmi an"
+  },
+  "app.inProgress": {
+    "en": "In Progress",
+    "es": "En progreso",
+    "pt": "Em curso",
+    "ht": "Ankou"
+  },
+  "app.lastUpload": {
+    "en": "Last Upload",
+    "es": "Última carga",
+    "pt": "Último upload",
+    "ht": "Dènye Telechajman"
+  },
+  "app.movedIn": {
+    "en": "Moved In",
+    "es": "Mudado",
+    "pt": "Mudou-se",
+    "ht": "Antre nan Kay la"
+  },
+  "app.mobilePhone": {
+    "en": "Primary Mobile Phone",
+    "es": "Teléfono móvil principal",
+    "pt": "Celular principal",
+    "ht": "Telefòn Selilè Prensipal"
+  },
+  "app.pipelineStatus": {
+    "en": "Pipeline Status",
+    "es": "Estado del canal",
+    "pt": "Status do canal",
+    "ht": "Stati Transfè"
+  },
+  "app.surveys": {
+    "en": "Surveys",
+    "es": "Encuestas",
+    "pt": "Questionários",
+    "ht": "Sondaj yo"
+  },
+  "app.survey": {
+    "en": "Surveys",
+    "es": "Encuesta",
+    "pt": "Pesquisa",
+    "ht": "Sondaj la"
+  },
+  "app.surveyRequests": {
+    "en": "Survey Requests",
+    "es": "Solicitudes de encuesta",
+    "pt": "Solicitações de pesquisa",
+    "ht": "Demann Sondaj yo"
+  },
+  "app.surveysCompleted": {
+    "en": "Surveys Completed",
+    "es": "Encuestas completadas",
+    "pt": "Pesquisas concluídas",
+    "ht": "Sondaj ki fin Fèt"
+  },
+  "app.son": {
+    "en": "Son",
+    "es": "Hijo",
+    "pt": "Filho",
+    "ht": "Pitit Gason"
+  },
+  "app.survyRequestBtn": {
+    "en": "Survey Request",
+    "es": "Solicitud de encuesta",
+    "pt": "Solicitação de pesquisa",
+    "ht": "Demann Sondaj"
+  },
+  "app.uploaded": {
+    "en": "Uploaded",
+    "es": "Cargado",
+    "pt": "Carregado",
+    "ht": "Sa ki Telechaje"
+  },
+  "app.containers.Surveys.availableContexts": {
+    "en": "Languages",
+    "es": "Idiomas",
+    "pt": "Línguas",
+    "ht": "Lang"
+  },
+  "app.containers.Surveys.answeredQuestion": {
+    "en": "answered this question",
+    "es": "respondió esta pregunta",
+    "pt": "respondeu a esta pergunta",
+    "ht": "reponn kesyon sa a"
+  },
+  "app.containers.Surveys.allTime": {
+    "en": "All Time",
+    "es": "Todo el tiempo",
+    "pt": "Tempo todo",
+    "ht": "Toutan"
+  },
+  "app.containers.Surveys.average": {
+    "en": "Average",
+    "es": "Promedio",
+    "pt": "Média",
+    "ht": "Mwayèn"
+  },
+  "app.containers.Surveys.communities": {
+    "en": "All Communities",
+    "es": "Todas las comunidades",
+    "pt": "Todas as comunidades",
+    "ht": "Tout Kominote yo"
+  },
+  "app.containers.Surveys.dateRange": {
+    "en": "Date Range",
+    "es": "Rango de fechas",
+    "pt": "Período",
+    "ht": "Range Dat yo"
+  },
+  "app.containers.Surveys.dataFrom": {
+    "en": "Data From...",
+    "es": "Datos de ...",
+    "pt": "Dados de...",
+    "ht": "Done Soti ..."
+  },
+  "app.containers.Surveys.lastUpdate": {
+    "en": "Last Update",
+    "es": "Última actualización",
+    "pt": "Última atualização",
+    "ht": "Dènye Mizajou"
+  },
+  "app.containers.Surveys.lastSubmission": {
+    "en": "Last Submission",
+    "es": "Último envío",
+    "pt": "Última submissão",
+    "ht": "Denye Soumèt"
+  },
+  "app.containers.Surveys.name": {
+    "en": "Survey Template",
+    "es": "Plantilla de Encuesta",
+    "pt": "Modelo de pesquisa",
+    "ht": "Modèl Sondaj la"
+  },
+  "app.containers.Surveys.median": {
+    "en": "Median",
+    "es": "Mediana",
+    "pt": "Mediano",
+    "ht": "Medyan"
+  },
+  "app.containers.Surveys.minimum": {
+    "en": "Minimum",
+    "es": "Mínimo",
+    "pt": "Mínimo",
+    "ht": "Minimòm"
+  },
+  "app.containers.Surveys.maximum": {
+    "en": "Maximum",
+    "es": "Máximo",
+    "pt": "Máximo",
+    "ht": "Maksimòm"
+  },
+  "app.containers.Surveys.outOf": {
+    "en": "out of",
+    "es": "fuera de",
+    "pt": "fora de",
+    "ht": "soti nan"
+  },
+  "app.containers.Surveys.questionsCount": {
+    "en": "Questions",
+    "es": "Preguntas",
+    "pt": "Perguntas",
+    "ht": "Kesyon"
+  },
+  "app.containers.Surveys.response": {
+    "en": "Response",
+    "es": "Respuesta",
+    "pt": "Resposta",
+    "ht": "Repons"
+  },
+  "app.containers.Surveys.responses": {
+    "en": "Responses",
+    "es": "Respuestas",
+    "pt": "Respostas",
+    "ht": "Repons"
+  },
+  "app.containers.Surveys.submissionsCount": {
+    "en": "Submissions",
+    "es": "Entregas",
+    "pt": "Submissões",
+    "ht": "Soumèt"
+  },
+  "app.containers.Surveys.surveyListHeader": {
+    "en": "Survey Templates",
+    "es": "Plantillas de Encuestas",
+    "pt": "Modelos de pesquisa",
+    "ht": "Modèl Sondaj la"
+  },
+  "app.containers.Surveys.viewFamily": {
+    "en": "View Family",
+    "es": "Ver familia",
+    "pt": "Ver Família",
+    "ht": "Gade Fanmi"
+  },
+  "app.containers.Surveys.viewSubmission": {
+    "en": "View Submission",
+    "es": "Ver envío",
+    "pt": "Ver Envio",
+    "ht": "View Soumèt"
+  },
+  "app.containers.Surveys.submissionListHeader": {
+    "en": "Submissions",
+    "es": "Entregas",
+    "pt": "Submissões",
+    "ht": "Soumèt"
+  },
+  "app.containers.UserAccount.accSettingsHeader": {
+    "en": "Account Settings",
+    "es": "Configuraciones de la cuenta",
+    "pt": "Configurações da conta",
+    "ht": "Paramèt yo pou Kont lan"
+  },
+  "app.containers.UserAccount.accountUpdated": {
+    "en": "Account Settings Updated.",
+    "es": "Configuraciones de la cuenta actualizada",
+    "pt": "Configurações atualizadas da conta",
+    "ht": "Paramèt yo pou Kont lan Ajou."
+  },
+  "app.containers.UserAccount.confirmChanges": {
+    "en": "Confirm Changes",
+    "es": "Confirmar cambios",
+    "pt": "Confirmar alterações",
+    "ht": "Konfime Chanjman yo"
+  },
+  "app.containers.UserAccount.confirmPassword": {
+    "en": "Confirm Your New Password",
+    "es": "Confirma tu nueva contraseña",
+    "pt": "Confirme nova senha",
+    "ht": "Konfime Nouvo Modpas Ou"
+  },
+  "app.containers.UserAccount.currentPassword": {
+    "en": "Current Password",
+    "es": "Contraseña actual",
+    "pt": "Senha atual",
+    "ht": "Modpas Aktyèl la"
+  },
+  "app.containers.UserAccount.pwdSettingsHeader": {
+    "en": "Change Your Password",
+    "es": "Cambia tu contraseña",
+    "pt": "Trocar a senha",
+    "ht": "Chanje Modpas Ou"
+  },
+  "app.containers.UserAccount.passwordReq": {
+    "en": "Please make sure your password is strong and 6 characters minimum.",
+    "es": "Por favor, asegúrese de que su contraseña sea segura y de 6 caracteres como mínimo.",
+    "pt": " Verifique se sua senha é forte e com no mínimo 6 caracteres.",
+    "ht": "Tanpri, asire w modpas ou solid e li gen omwen 6 lèt/chif."
+  },
+  "app.containers.UserAccount.newPassword": {
+    "en": "New Password",
+    "es": "Nueva contraseña",
+    "pt": "Nova senha",
+    "ht": "Nouvo Modpas"
+  },
+  "app.containers.UserAccount.minCharacters": {
+    "en": "Field must be at least 6 characters",
+    "es": "El campo debe tener al menos 6 caracteres.",
+    "pt": "O campo deve ter pelo menos 6 caracteres.",
+    "ht": "Fòk li gen omwen 6 lèt/chif"
+  },
+  "app.containers.UserAccount.langSettings": {
+    "en": "Your Language Settings",
+    "es": "Su configuración de idioma",
+    "pt": "Sua configuração de idioma",
+    "ht": "Paramèt yo pou Lang nan"
+  },
+  "app.containers.UserAccount.emailChange": {
+    "en": "To change your email please contact us.",
+    "es": "Para cambiar su correo electrónico por favor contáctenos.",
+    "pt": "Para alterar seu e-mail, entre em contato conosco",
+    "ht": "Pou w chanje imèl ou, tanpri, kontakte nou."
+  },
+  "app.containers.UserAccount.emailLabel": {
+    "en": "Your Email",
+    "es": "Tu correo electrónico",
+    "pt": "Seu email",
+    "ht": "Imèl Ou"
+  },
+  "app.containers.UserAccount.lastNameLabel": {
+    "en": "Last Name",
+    "es": "Apellido",
+    "pt": "Sobrenome",
+    "ht": "Siyati"
+  },
+  "app.containers.UserAccount.password": {
+    "en": "Password",
+    "es": "Contraseña",
+    "pt": "Senha",
+    "ht": "Modpas"
+  },
+  "app.containers.UserAccount.passwordMatch": {
+    "en": "Passwords must match.",
+    "es": "Las contraseñas deben coincidir.",
+    "pt": "As senhas devem corresponder",
+    "ht": "Fòk toude modpas yo menm."
+  },
+  "app.containers.UserAccount.passwordChange": {
+    "en": "To change your password please click the link below",
+    "es": "Para cambiar su contraseña por favor haga clic en el enlace de abajo",
+    "pt": "Para alterar sua senha, clique no link abaixo",
+    "ht": "Pou w chanje modpas ou, tanpri, klike sou lyen ki pi ba a"
+  },
+  "app.containers.UserAccount.passwordUpdated": {
+    "en": "Password Updated.",
+    "es": "Contraseña actualiza.",
+    "pt": "Senha atualizada",
+    "ht": "Modpas la Ajou."
+  },
+  "app.containers.UserAccount.passwordLink": {
+    "en": "Change Your Password",
+    "es": "Cambia tu contraseña",
+    "pt": "Trocar a senha",
+    "ht": "Chanje Modpas Ou"
+  },
+  "app.containers.UserAccount.general": {
+    "en": "General",
+    "es": "General",
+    "pt": "Geral",
+    "ht": "Jeneral"
+  },
+  "app.containers.UserAccount.emailLink": {
+    "en": "Your Email",
+    "es": "Tu correo electrónico",
+    "pt": "Seu email",
+    "ht": "Imèl Ou"
+  },
+  "app.containers.UserAccount.firstNameLabel": {
+    "en": "First Name",
+    "es": "Primer Nombre",
+    "pt": "Primeiro nome",
+    "ht": "Prenon"
+  },
+  "app.containers.UserAccount.defaultSurveyLang": {
+    "en": "Default Survey Language",
+    "es": "Idioma predeterminado de la encuesta",
+    "pt": "Idioma padrão da pesquisa",
+    "ht": "Lang Sondaj Nòmal"
+  },
+  "app.containers.UserAccount.defaultLang": {
+    "en": "Default Language",
+    "es": "Idioma predeterminado",
+    "pt": "Idioma padrão",
+    "ht": "Lang Nòmal"
+  },
+  "app.containers.UserAccount.invalidPassword": {
+    "en": "Invalid Password, Please Try Again.",
+    "es": "Contraseña no válida, por favor vuelva a intentarlo.",
+    "pt": "Senha inválida, por favor tente novamente",
+    "ht": "Modpas la Pa Valid, Tanpri, Eseye Ankò."
+  },
+  "app.containers.UserAccount.organization": {
+    "en": "Organization",
+    "es": "Organización",
+    "pt": "Organização",
+    "ht": ".Ganizasyon"
+  },
+  "app.containers.Authentication.header": {
+    "en": "Log In",
+    "es": "Iniciar sesión",
+    "pt": "Log in",
+    "ht": "Konekte"
+  },
+  "app.containers.Authentication.logout": {
+    "en": "You've successfully logged out!",
+    "es": "Has cerrado sesión con éxito!",
+    "pt": "Você saiu com sucesso!",
+    "ht": "Ou reyisi dekonekte!"
+  },
+  "app.containers.Authentication.email": {
+    "en": "Email*",
+    "es": "Email*",
+    "pt": "Email*",
+    "ht": "Imèl*"
+  },
+  "app.containers.Authentication.password": {
+    "en": "Password*",
+    "es": "Contraseña*",
+    "pt": "Senha*",
+    "ht": "Modpas*"
+  },
+  "app.containers.Authentication.rememberMe": {
+    "en": "Remember Me",
+    "es": "Recuérdame",
+    "pt": "Me lembre",
+    "ht": "Sonje m"
+  },
+  "app.containers.Authentication.forgotPassword": {
+    "en": "Forgot your password?",
+    "es": "¿Olvidaste tu contraseña?",
+    "pt": "Esqueceu sua senha?",
+    "ht": "Èske w bliye modpas ou?"
+  },
+  "app.containers.Authentication.login": {
+    "en": "Log In",
+    "es": "Iniciar sesión",
+    "pt": "Fazer log in",
+    "ht": "Konekte"
+  },
+  "app.containers.Authentication.unlockInstructions": {
+    "en": "Didn't receive unlock instructions?",
+    "es": "¿No recibió las instrucciones de desbloqueo?",
+    "pt": "Não recebeu instruções de desbloqueio?",
+    "ht": "Èske w pa t resevwa enstriksyon yo pou w debloke?"
+  },
+  "app.containers.Dashboard.header": {
+    "en": "User Dashboard",
+    "es": "Tablero de usuario",
+    "pt": "Painel do usuário",
+    "ht": "Meni Itilizatè"
+  },
+  "app.containers.Surveys.header": {
+    "en": "This is the Surveys container!",
+    "es": "¡Este es el contenedor de las encuestas!",
+    "pt": "Este é o recipiente das pesquisas!",
+    "ht": "Sa se Lis Sondaj yo!"
+  },
+  "app.component.NotFound.header": {
+    "en": "Oops... 404",
+    "es": "¡Oh no!... 404",
+    "pt": "Oops... 404",
+    "ht": "Kèt... 404"
+  },
+  "app.component.NotFound.unAuthHeader": {
+    "en": "Sorry, unauthorized.",
+    "es": "Lo sentimos, no autorizado.",
+    "pt": "Desculpe, não autorizado.",
+    "ht": "Dezole, ou pa otorize pou sa."
+  },
+  "app.component.NotFound.body": {
+    "en": "Sorry, we couldn't find that page. Please contact us below.",
+    "es": "Lo sentimos, no pudimos encontrar esa página. Por favor contáctenos abajo.",
+    "pt": "Não foi possível encontrar essa página. Entre em contato conosco abaixo.",
+    "ht": "Dezole, nou pa t ka jwenn paj sa a. Tanpri, kontakte nou pi ba."
+  },
+  "app.component.NotFound.unAuthBody": {
+    "en": "You do not have the proper permission to view this page. If you believe this is a mistake please contact your organization’s administrator.",
+    "es": "No tiene el permiso adecuado para ver esta página. Si cree que esto es un error, comuníquese con el administrador de su organización.",
+    "pt": "Você não tem permissão adequada para visualizar esta página. Se você acha que isso é um erro, entre em contato com o administrador da organização.",
+    "ht": "Ou pa gen pèmisyon w bezwen pou w gade paj sa a. Si w kwè se yon erè, tanpri, kontakte administratè òganizasyon w lan."
+  },
+  "app.component.NotFound.back": {
+    "en": "Back",
+    "es": "Atrás",
+    "pt": "De volta",
+    "ht": "Tounen"
+  },
+  "app.component.NotFound.contact": {
+    "en": "Contact Us",
+    "es": "Contáctenos",
+    "pt": "Entre em contato conosco",
+    "ht": "Kontakte Nou"
+  },
+  "app.component.NotFound.failedQuery": {
+    "en": "Failed Query",
+    "es": "Búsqueda fallida",
+    "pt": "Falha na consulta",
+    "ht": "Demann Echwe"
+  },
+  "app.component.NSTable.all": {
+    "en": "All",
+    "es": "Todos",
+    "pt": "Tudo",
+    "ht": "Tout"
+  },
+  "app.component.NSTable.add": {
+    "en": "Add",
+    "es": "Añadir",
+    "pt": "Adicionar",
+    "ht": "Ajoute"
+  },
+  "app.component.NSTable.columns": {
+    "en": "Columns",
+    "es": "Columnas",
+    "pt": "Colunas",
+    "ht": "Kolòn"
+  },
+  "app.component.NSTable.customField": {
+    "en": "Custom Field",
+    "es": "Campo personalizado",
+    "pt": "Campo personalizado",
+    "ht": "Chan Pèsonalize"
+  },
+  "app.component.NSTable.density": {
+    "en": "Density",
+    "es": "Densidad",
+    "pt": "Densidade",
+    "ht": "Dansite"
+  },
+  "app.component.NSTable.field": {
+    "en": "Field",
+    "es": "Campo",
+    "pt": "Campo",
+    "ht": "Espas"
+  },
+  "app.component.NSTable.itemSelected": {
+    "en": "item selected",
+    "es": "artículo seleccionado",
+    "pt": "item selecionado",
+    "ht": "atik ou chwazi"
+  },
+  "app.component.NSTable.next": {
+    "en": "Next",
+    "es": "Próximo",
+    "pt": "Próximo",
+    "ht": "Suivan"
+  },
+  "app.component.NSTable.prev": {
+    "en": "Prev",
+    "es": "Anterior",
+    "pt": "Anterior",
+    "ht": "Presedan"
+  },
+  "app.component.NSTable.of": {
+    "en": "of",
+    "es": "de",
+    "pt": "do",
+    "ht": "de"
+  },
+  "app.component.NSTable.requests": {
+    "en": "requests",
+    "es": "solicitudes",
+    "pt": "solicitações",
+    "ht": "demann"
+  },
+  "app.component.NSTable.resultsPerPage": {
+    "en": "Results per page",
+    "es": "Resultados por página",
+    "pt": "Resultados por página",
+    "ht": "Rezilta pou chak paj"
+  },
+  "app.component.NSTable.createSurvReq": {
+    "en": "Create Survey Requests",
+    "es": "Crear solicitudes de encuesta",
+    "pt": "Criar solicitações de pesquisa",
+    "ht": "Kreye Demann Sondaj"
+  },
+  "app.component.NSTable.export": {
+    "en": "Export",
+    "es": "Exportar",
+    "pt": "Exportar",
+    "ht": "Ekspòte"
+  },
+  "app.component.NSTable.selectAll": {
+    "en": "Select all",
+    "es": "Seleccionar todo",
+    "pt": "Selecionar tudo",
+    "ht": "Chwazi tout"
+  },
+  "app.component.NSTable.saveChanges": {
+    "en": "Save Changes",
+    "es": "Guardar cambios",
+    "pt": "Salvar mudanças",
+    "ht": "Anrejistre Chanjman yo"
+  },
+  "app.component.NSTable.items": {
+    "en": "items",
+    "es": "artículos",
+    "pt": "items",
+    "ht": "atik"
+  },
+  "app.component.NSTable.filters": {
+    "en": "Filters",
+    "es": "Filtros",
+    "pt": "Filtros",
+    "ht": "Filtè"
+  },
+  "app.component.NSTable.tableSettings": {
+    "en": "Table Settings",
+    "es": "Configuraciones de tabla",
+    "pt": "Configurações da tabela",
+    "ht": "Paramèt yo pou Tab yo"
+  },
+  "app.component.NSTable.reset": {
+    "en": "Reset",
+    "es": "Reiniciar",
+    "pt": "Reiniciar",
+    "ht": "Reyinisyalize"
+  },
+  "app.component.NSTable.reorder": {
+    "en": "Re-Order...",
+    "es": "Reordenar...",
+    "pt": "Reordenar",
+    "ht": "Re-Òdone..."
+  },
+  "app.component.NSTable.reorderDesc": {
+    "en": "Drag column label to reorder",
+    "es": "Arrastre la etiqueta de la columna para reordenar",
+    "pt": "Arraste o rótulo da coluna para reordenar",
+    "ht": "Klike sou etikèt kolòn nan epi trennen l pou re-òdone l"
+  },
+  "app.component.NSTable.newTableView": {
+    "en": "New Table View",
+    "es": "Nueva vista de tabla",
+    "pt": "Nova visualização de tabela",
+    "ht": "Nouvo Fason Tab la Parèt"
+  },
+  "app.component.NSTable.newViewNotice": {
+    "en": "This will create a new custom view with your current filter and table settings.",
+    "es": "Esto creará una nueva vista personalizada con su filtro actual y la configuración de la tabla.",
+    "pt": "Isso criará uma nova exibição personalizada com as configurações atuais de filtro e tabela.",
+    "ht": "Sa pral fè l parèt yon lòt fason, avèk filtè w la ak paramèt ou yo pou tab la."
+  },
+  "app.component.NSTable.loadTableView": {
+    "en": "Load Table View",
+    "es": "Cargar vista de tabla",
+    "pt": " Carregar visualização de tabela",
+    "ht": "Fè Tab la Parèt"
+  },
+  "app.component.NSTable.saveNewView": {
+    "en": "Save New View",
+    "es": "Guardar nueva vista",
+    "pt": "Salvar nova visualização",
+    "ht": "Sovgade Fason l Parèt la"
+  },
+  "app.component.NSTable.saveNewViewDesc": {
+    "en": "Create a new custom view with your current filter and table settings.",
+    "es": "Cree una nueva vista personalizada con su filtro actual y la configuración de la tabla.",
+    "pt": "Crie uma nova exibição personalizada com suas configurações atuais de filtro e tabela.",
+    "ht": "Kreye yon nouvo fason pou l parèt avèk filtè pa w la ak paramèt ou yo pou tab la."
+  },
+  "app.component.NSTable.inputPlaceholder": {
+    "en": "Enter a name for this view...",
+    "es": "Ingrese un nombre para esta vista ...",
+    "pt": "Digite um nome para esta visualização...",
+    "ht": "Ajoute yon non pou fason sa l parèt la..."
+  },
+  "app.component.NSTable.noRequests": {
+    "en": "No requests found",
+    "es": "No se encontraron solicitudes",
+    "pt": "Nenhuma solicitação encontrada",
+    "ht": "Pa gen demann yo te jwenn"
+  },
+  "app.component.SurveyViewer.bySurveyor": {
+    "en": "by Surveyor",
+    "es": "por Surveyor",
+    "pt": "por Surveyor",
+    "ht": "pa Surveyor"
+  },
+  "app.component.SurveyViewer.completed": {
+    "en": "Completed",
+    "es": "Terminado",
+    "pt": "Concluído",
+    "ht": "Konplete"
+  },
+  "app.component.SurveyViewer.conditionalDisplay": {
+    "en": "Display this question if",
+    "es": "Mostrar esta pregunta si",
+    "pt": "Mostre esta pergunta se",
+    "ht": "Montre kesyon sa a si"
+  },
+  "app.component.SurveyViewer.field": {
+    "en": "Field",
+    "es": "Campo",
+    "pt": "Campo",
+    "ht": "Jaden"
+  },
+  "app.component.SurveyViewer.noResponse": {
+    "en": "No Response",
+    "es": "Ninguna respuesta",
+    "pt": "Sem resposta",
+    "ht": "Pa gen repons"
+  },
+  "app.component.SurveyViewer.questions": {
+    "en": "Questions",
+    "es": "Preguntas",
+    "pt": "Questões",
+    "ht": "Kesyon"
+  },
+  "app.component.SurveyViewer.question": {
+    "en": "Question",
+    "es": "Pregunta",
+    "pt": "Questão",
+    "ht": "Kesyon"
+  }
+}

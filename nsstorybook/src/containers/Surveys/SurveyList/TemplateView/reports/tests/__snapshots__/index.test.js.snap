@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Reports /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__InputFormatStyle-d41tga-0 fOaZlY"
+>
+  <div
+    class="styles__SelectFormatStyle-d41tga-1 jtUZje"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+      >
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-298 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+          >
+            <span
+              class="MuiTypography-root makeStyles-caption-291 MuiTypography-caption"
+            >
+              Date Range
+            </span>
+            <button
+              aria-controls="All Time"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-441 MuiButton-outlined makeStyles-btnWidth-300"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-442"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    All Time
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-436"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-selectMargins-298 MuiGrid-item"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column"
+          >
+            <span
+              class="MuiTypography-root makeStyles-caption-291 MuiTypography-caption"
+            >
+              Data From...
+            </span>
+            <button
+              aria-controls="All Communities"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-479 MuiButton-outlined makeStyles-btnWidth-301 Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-480"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    All Communities
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-436"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

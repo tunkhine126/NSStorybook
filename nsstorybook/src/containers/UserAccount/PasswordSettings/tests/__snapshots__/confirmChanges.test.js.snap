@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ConfirmChanges /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__ConfirmPwdStyle-sc-10t8bu-0 dPtzDU"
+>
+  <div
+    class="MuiGrid-root makeStyles-spacing-192 MuiGrid-item"
+  >
+    <div
+      class="styles__ComponentStyle-zscvjs-0 iXrycp"
+    >
+      <div
+        class="MuiFormControl-root MuiTextField-root makeStyles-input-302 makeStyles-root-306 MuiFormControl-marginNormal"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-filled"
+          data-shrink="false"
+          for="currentPassword"
+          id="currentPassword-label"
+        >
+          <span>
+            Current Password
+          </span>
+        </label>
+        <div
+          class="MuiInputBase-root MuiFilledInput-root makeStyles-root-307 MuiInputBase-formControl"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiFilledInput-input"
+            id="currentPassword"
+            name="currentPassword"
+            type="password"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -2,116 +2,160 @@ import React, { Component } from 'react';
 import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
 import PropTypes from 'prop-types';
-import Button from '../components/NSButton/index'
+import NSButton from '../components/NSButton/index'
+import HeaderButton from '../components/HeaderButton/index'
+import { headerButtonStyles, SelectBtnStyle } from '../components/HeaderButton/styles'
+import colors from '../../src/global-styles';
+import { button, Typography, Collapse, IconButton, SnackbarContent, Checkbox, Input } from '@material-ui/core';
+import { Edit, MoreHoriz, CheckCircleIcon, ErrorIcon, InfoIcon, WarningIcon, CheckBox } from '@material-ui/icons';
 import { NSButtonStyles, btnLinkStyles } from '../components/NSButton/styles'
+import { createMuiTheme, makeStyles } from '@material-ui/core/styles';
 import clsx from 'clsx';
+// import { FormattedMessage } from 'react-intl';
+// import TextLink from '../components/TextLink';
+// import globalMessages from 'messages';
+
+
 
 export default {
   title: 'Buttons',
-  component: Button,
+  component: NSButton, button, 
 };
 
-export function NSButton({
-  children,
-  componentClasses,
+export function ButtonContainer({
   version,
   textBtn,
-  deleteLink,
-  formId,
   disabled,
+  variant,
+  bgColor,
+  padding,
   ...rest
 }) {
-  const classes = NSButtonStyles();
+  const classes = NSButtonStyles(); headerButtonStyles(bgColor, padding)();
   const danger = version === 3 ? classes.negative : classes.primary;
   const type = version === 2 ? classes.secondary : danger;
+  let element;
+  
+  const variantIcon = {
+    success: CheckCircleIcon,
+    warning: WarningIcon,
+    error: ErrorIcon,
+    info: InfoIcon,
+  };
 
   return (
     <BrowserRouter>
-    <h3>Base</h3>
-      <Button
-        className={clsx(classes.btn, type, componentClasses)}
-        classes={textBtn ? btnLinkStyles(deleteLink)() : null}
-        {...rest}
-        onClick={action("I've been clicked!")}
-      >
-        {children}
-        Button
-      </Button>
-    <h3>Mutations</h3>
-    <p>
-    <Button
+    <h3>Material-UI Buttons</h3>
+      <p>
+        <button 
+          className="MuiButton" 
+          onClick={action("I've been clicked")}>
+          Base
+        </button>
+      &nbsp;
+        <button className="MuiButton-contained" onClick={action("I've been clicked!")}>
+          <span>Contained</span>
+        </button>
+      &nbsp;
+        <button 
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall" 
+          onClick={action("I've been clicked")}>
+            <span class="MuiButton-label">Smol</span>
+        </button>  
+      &nbsp;
+        <button 
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeMedium MuiButton-sizeMedium MuiButton-containedSecondary" 
+          onClick={action("I've been clicked")}>
+            <span class="MuiButton-label">Med</span>
+        </button>
+      &nbsp;
+        <button 
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeLarge MuiButton-sizeLarge MuiButton-containedPrimary" 
+          onClick={action("I've been clicked")}>
+            <span class="MuiButton-label">Thicc</span>
+        </button>  
+      </p>
+    <h3>NS Base Buttons</h3>
+      <p>
+        <NSButton
+          id="Base"
+          version={1}
+          componentClasses={clsx(classes.btns, classes.margin)}
+          onClick={action("I've been clicked")}>
+          <span>NS Btn V1</span>
+        </NSButton>
+      &nbsp;
+        <NSButton
+          id="Forward"
+          version={2}
+          componentClasses={clsx(classes.btns, classes.margin)}
+          onClick={action("I've been clicked")}>
+          <span>NS Btn V2</span>
+        </NSButton>
+      &nbsp;
+        <NSButton
+          id="Danger"
+          version={3}
+          componentClasses={clsx(classes.btns, classes.margin)}
+          onClick={action("I've been clicked")}>
+          <span>NS BTN V3</span>
+        </NSButton>
+      &nbsp;
+        <NSButton                 
+          componentClasses={classes.tsReorder}
+          variant="disabled">
+          <span>Disabled</span>
+        </NSButton>
+      &nbsp;
+      <NSButton
+          textBtn
+          variant="contained"
+          size="small"
+          onClick={action("I've been clicked")}
+          componentClasses={classes.tsDragNDropCancelBtn}>
+        <span>Txt Link Btn</span>
+        </NSButton>
+      &nbsp;
+    </p>
+    <h3>Buttons with Icons</h3>
+      <p>
+      <NSButton 
+        version={2}
+        onClick={action("I've been clicked")}>
+        <>
+          <Edit fontSize="small" className={classes.editBtn} />
+          <Typography className={classes.editText}/>
+          &nbsp; Edit
+        </>
+      </NSButton>
+    &nbsp;
+      <IconButton
+        size="medium"
         variant="contained"
         color="primary"
-        size="large"
-        className={classes.confirmBtn}
-        form={formId}
-        type={type}
-        disabled={disabled}
         onClick={action("I've been clicked")}
-        >Button
-      </Button>
-      &nbsp;
-      <Button className={classes.cancelBtn} onClick={action('cancel')}>Button</Button>
+        >
+          <MoreHoriz className={classes.horiz} />
+      </IconButton>
+    &nbsp;
+    <IconButton
+        size="small"
+        variant="contained"
+        color="primary"
+        onClick={action("I've been checked")}>
+          <Checkbox className={classes.listItemChkbox} />
+      </IconButton>
     </p>
-    <NSButton
-      id="back-button"
-      version={2}
-      componentClasses={clsx(classes.btns, classes.margin)}
-      onClick={action('goBack')}>
-    </NSButton>
+    <h3>Header Button</h3>
+      <p>
+        <HeaderButton version={1} className={clsx(classes.customInput, 'header-button')}>
+          Header V1
+        </HeaderButton>
+        <HeaderButton version={2} className={clsx(classes.customInput)}>Header V2</HeaderButton>
+        <HeaderButton version={3}>Header V3</HeaderButton>
+        <HeaderButton version={4} className={clsx(classes.btn)}>Header V4</HeaderButton>
+      </p>
     </BrowserRouter>
   );
 }
-
-NSButton.propTypes = {
-  children: PropTypes.oneOfType([
-    PropTypes.element,
-    PropTypes.array,
-    PropTypes.string,
-  ]).isRequired,
-  componentClasses: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  version: PropTypes.number,
-  textBtn: PropTypes.bool,
-  deleteLink: PropTypes.bool,
-};
-
-
-
-// export function NSButton({
-//   children,
-//   componentClasses,
-//   version,
-//   textBtn,
-//   deleteLink,
-//   formId,
-//   disabled,
-//   ...rest
-// }) {
-//   const classes = NSButtonStyles();
-//   const danger = version === 3 ? classes.negative : classes.primary;
-//   const type = version === 2 ? classes.secondary : danger;
-
-//   return (
-//     <Button 
-//       onClick={action('I was clicked')}
-//       variant="contained"
-//       color="primary"
-//       size="large"
-//       className={classes.confirmBtn}
-//       form={formId}
-//       type={type}
-//       disabled={disabled}
-//       >Primary
-//     </Button>
-//   )
-// }
-
-
- 
-
-
-
-
-
-
 

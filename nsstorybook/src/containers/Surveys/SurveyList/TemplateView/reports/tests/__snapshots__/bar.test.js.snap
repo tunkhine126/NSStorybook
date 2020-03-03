@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Bar /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-container-145 MuiGrid-container MuiGrid-align-items-xs-center"
+>
+  <div
+    class="MuiGrid-root makeStyles-percentageContainer-146 MuiGrid-item"
+  >
+    <p
+      class="MuiTypography-root makeStyles-percentageText-147 MuiTypography-body1"
+    >
+      30
+      %
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-barContainer-144 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+  >
+    <div
+      class="makeStyles-percentageBar-148"
+    />
+    <div
+      class="MuiGrid-root makeStyles-barTextContainer-143 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+    >
+      <div
+        class="MuiGrid-root makeStyles-responseContainer-149"
+      >
+        <p
+          class="MuiTypography-root makeStyles-responseText-150 MuiTypography-body1"
+        >
+          Test
+        </p>
+      </div>
+      <div
+        class="MuiGrid-root"
+      >
+        <p
+          class="MuiTypography-root makeStyles-numberOfResponses-151 MuiTypography-body1"
+        >
+          25
+           
+          Responses
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

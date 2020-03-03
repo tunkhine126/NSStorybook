@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Overview /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-flex-start"
+>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8 MuiGrid-grid-md-11 MuiGrid-grid-lg-8"
+  >
+    <div
+      class="MuiPaper-root makeStyles-table-204 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <table
+        aria-label="survey overview table"
+        class="MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head"
+              scope="col"
+            >
+              Questions
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head"
+              scope="col"
+            >
+              Languages
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head"
+              scope="col"
+            >
+              Submissions
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head"
+              scope="col"
+            >
+              Last Submission
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              0
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body"
+            />
+            <td
+              class="MuiTableCell-root MuiTableCell-body"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  0
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiButton-root makeStyles-root-363 MuiButton-text makeStyles-btn-359 makeStyles-primary-360 makeStyles-viewBtn-206"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiButton-label makeStyles-label-364"
+                    >
+                      View
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-flex-start"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  N/A
+                </div>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

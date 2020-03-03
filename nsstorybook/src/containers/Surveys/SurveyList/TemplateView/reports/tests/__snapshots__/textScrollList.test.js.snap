@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextScrollList /> Should render and match the snapshot 1`] = `
+<div
+  style="position: relative; height: 241px; width: 90%; overflow: auto; will-change: transform; direction: ltr; margin-left: 40px;"
+>
+  <div
+    style="height: 0px; width: 100%;"
+  />
+</div>
+`;

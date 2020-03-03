@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 import styled from 'styled-components';
 import { darken } from 'polished';
 

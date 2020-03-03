@@ -1,0 +1,1202 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SubmissionList /> Should render and match the snapshot 1`] = `
+<div
+  class="styles__SubmissionListStyle-sc-111it6v-4 gcJJUH"
+>
+  <div
+    class="MuiGrid-root makeStyles-submissionListHeader-655 MuiGrid-container MuiGrid-align-items-xs-flex-start MuiGrid-justify-xs-space-between"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item"
+    >
+      <h2
+        class="MuiTypography-root makeStyles-header-788 MuiTypography-h1 MuiTypography-gutterBottom"
+      >
+        Submissions
+      </h2>
+    </div>
+  </div>
+  <hr
+    class="MuiDivider-root MuiDivider-light"
+  />
+  <div
+    class="styles__InputFormatStyle-sc-1k9bobu-7 jIFXXN"
+  >
+    <div
+      class="styles__SelectFormatStyle-sc-1k9bobu-6 fIEHTG"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-flex-start MuiGrid-grid-xs-9"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item"
+          >
+            <div
+              class="styles__SearchInputStyle-sc-1k9bobu-3 cQEFfw"
+            >
+              <div
+                class="styles__ComponentStyle-zscvjs-0 iXrycp"
+              >
+                <div
+                  class="MuiFormControl-root MuiTextField-root makeStyles-input-1148 makeStyles-root-1152 makeStyles-inputFormat-840 tableSearchInput MuiFormControl-marginNormal"
+                >
+                  <div
+                    class="MuiInputBase-root MuiFilledInput-root makeStyles-root-901 MuiInputBase-formControl MuiInputBase-adornedStart MuiFilledInput-adornedStart"
+                  >
+                    <div
+                      class="MuiInputAdornment-root MuiInputAdornment-filled MuiInputAdornment-positionStart"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                        />
+                      </svg>
+                    </div>
+                    <input
+                      aria-invalid="false"
+                      class="MuiInputBase-input MuiFilledInput-input MuiInputBase-inputAdornedStart MuiFilledInput-inputAdornedStart MuiInputBase-inputTypeSearch"
+                      id="tableSearch"
+                      name="tableSearch"
+                      placeholder="Search..."
+                      type="search"
+                      value=""
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-selectMargins-857 MuiGrid-item"
+          >
+            <button
+              aria-controls="Survey"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-1153 MuiButton-outlined makeStyles-btnWidth-1144 Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-1154"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Survey
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-960"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+            </button>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-selectMargins-857 MuiGrid-item"
+          >
+            <button
+              aria-controls="Surveyor"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-1159 MuiButton-outlined makeStyles-btnWidth-1145 Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-1160"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Surveyor
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-960"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+            </button>
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-selectMargins-857 MuiGrid-item"
+          >
+            <button
+              aria-controls="Community"
+              aria-haspopup="true"
+              class="MuiButtonBase-root MuiButton-root makeStyles-root-1161 MuiButton-outlined makeStyles-btnWidth-1146 Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label makeStyles-label-1162"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-between"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    Community
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item"
+                  >
+                    <svg
+                      class="makeStyles-downArrow-960"
+                      data-custom="true"
+                      fill="none"
+                      height="9"
+                      viewBox="0 0 9 9"
+                      width="9"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clip-rule="evenodd"
+                        d="M8.48532 4.24264L4.24268 8.48528L3.51667e-05 4.24264H8.48532Z"
+                        fill=""
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </div>
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root makeStyles-addFiltersContainer-826 MuiGrid-item"
+        >
+          <div
+            class="MuiFormControl-root"
+          >
+            <span
+              class="styles__SelectBtnStyle-csocpc-0 cBdmWM"
+            >
+              <div
+                class="MuiInputBase-root MuiInput-root makeStyles-customInput-1164 header-button MuiInputBase-formControl MuiInput-formControl"
+              >
+                <div
+                  aria-haspopup="listbox"
+                  aria-labelledby=" mui-component-select-addFilters"
+                  class="MuiSelect-root MuiSelect-select makeStyles-select-1007 MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+                  id="mui-component-select-addFilters"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span>
+                    Add Filters...
+                  </span>
+                </div>
+                <input
+                  name="addFilters"
+                  type="hidden"
+                  value=",survey,surveyor,community"
+                />
+                
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiChip-root makeStyles-chip-830 MuiChip-colorPrimary MuiChip-deletableColorPrimary MuiChip-deletable"
+        role="button"
+        style="height: auto; min-height: 30px;"
+        tabindex="0"
+      >
+        <span
+          class="MuiChip-label"
+        >
+          <span
+            class="makeStyles-chipLabelContainer-831"
+          >
+            <span
+              class="makeStyles-chipTitle-832"
+            >
+              SURVEY
+              :
+            </span>
+            <span
+              class="makeStyles-chipItems-833"
+            >
+              Test Survey
+            </span>
+          </span>
+        </span>
+        <svg
+          class="makeStyles-chipClearBtn-834 MuiChip-deleteIcon MuiChip-deleteIconColorPrimary"
+          fill="none"
+          height="13"
+          viewBox="0 0 12 12"
+          width="13"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            clip-rule="evenodd"
+            d="M9.5 3.205L8.795 2.5L6 5.295L3.205 2.5L2.5 3.205L5.295 6L2.5 8.795L3.205 9.5L6 6.705L8.795 9.5L9.5 8.795L6.705 6L9.5 3.205Z"
+            fill="white"
+            fill-rule="evenodd"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    class="styles__TableStyleWrapper-sc-1k9bobu-8 hDEaTn"
+  >
+    <div
+      class="makeStyles-root-855"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-851 MuiPaper-elevation1 MuiPaper-rounded"
+      >
+        <table
+          aria-labelledby="submissionsTable"
+          class="MuiTable-root makeStyles-table-858"
+        >
+          <thead
+            class="MuiTableHead-root makeStyles-tableHead-860"
+          >
+            <tr
+              class="MuiTableRow-root makeStyles-tableHeadRow-866 MuiTableRow-head"
+            >
+              <th
+                class="MuiTableCell-root MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-paddingNone"
+                scope="col"
+                width="1%"
+              >
+                <span
+                  aria-disabled="true"
+                  class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-1124 MuiCheckbox-root MuiCheckbox-colorSecondary makeStyles-checkBoxBg-829 select-all-checkBox PrivateSwitchBase-disabled-1126 Mui-disabled MuiIconButton-colorSecondary Mui-disabled Mui-disabled"
+                  tabindex="-1"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <input
+                      aria-label="select all submissions"
+                      class="PrivateSwitchBase-input-1127"
+                      data-indeterminate="false"
+                      disabled=""
+                      type="checkbox"
+                      value=""
+                    />
+                    <svg
+                      fill="none"
+                      font-size="default"
+                      height="16"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <rect
+                        fill="white"
+                        height="15"
+                        rx="1.5"
+                        stroke="#DADAE0"
+                        width="15"
+                        x="0.5"
+                        y="0.5"
+                      />
+                    </svg>
+                  </span>
+                </span>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignLeft MuiTableCell-paddingNone"
+                scope="col"
+                width="150px"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-nonSortableText-843 MuiTypography-body1"
+                  style="margin-left: auto;"
+                >
+                  Family
+                </p>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignLeft"
+                scope="col"
+                width="150px"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiTableSortLabel-root"
+                  role="button"
+                  tabindex="0"
+                >
+                  Family ID
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+                    />
+                  </svg>
+                </span>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignLeft MuiTableCell-paddingNone"
+                scope="col"
+                width="123px"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiTableSortLabel-root"
+                  role="button"
+                  tabindex="0"
+                >
+                  Survey
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+                    />
+                  </svg>
+                </span>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignLeft MuiTableCell-paddingNone"
+                scope="col"
+                width="123px"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiTableSortLabel-root"
+                  role="button"
+                  tabindex="0"
+                >
+                  Surveyor
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+                    />
+                  </svg>
+                </span>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignLeft MuiTableCell-paddingNone"
+                scope="col"
+                width="100px"
+              >
+                <span
+                  aria-disabled="false"
+                  class="MuiButtonBase-root MuiTableSortLabel-root MuiTableSortLabel-active"
+                  role="button"
+                  tabindex="0"
+                >
+                  Completed
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root MuiTableSortLabel-icon MuiTableSortLabel-iconDirectionDesc"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"
+                    />
+                  </svg>
+                </span>
+                <div
+                  style="top: 0px; right: 0px; width: 5px; position: absolute; cursor: col-resize; user-select: none; height: 100%; border-right: 1px solid #797979; margin-right: 5px;"
+                />
+              </th>
+              <th
+                class="MuiTableCell-root makeStyles-root-1098 MuiTableCell-head makeStyles-tableHeadText-861 makeStyles-stickyHeader-863 MuiTableCell-alignCenter MuiTableCell-paddingNone"
+                scope="col"
+                width="1%"
+              >
+                <button
+                  aria-controls="table-settings"
+                  aria-haspopup="true"
+                  aria-label="table settings"
+                  class="MuiButtonBase-root MuiIconButton-root makeStyles-root-1142 MuiIconButton-sizeSmall"
+                  tabindex="0"
+                  type="button"
+                  variant="contained"
+                >
+                  <span
+                    class="MuiIconButton-label"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-toolWheel-867"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M0 0h20v20H0V0z"
+                        fill="none"
+                        transform="scale(1.2, 1.2)"
+                      />
+                      <path
+                        d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"
+                        transform="scale(1.2, 1.2)"
+                      />
+                    </svg>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </th>
+            </tr>
+            <tr
+              class="MuiTableRow-root MuiTableRow-head"
+            >
+              <th
+                class="MuiTableCell-root makeStyles-root-1099 MuiTableCell-head makeStyles-toolBarSticky-865 makeStyles-stickyHeader-863 MuiTableCell-paddingNone"
+                colspan="7"
+                scope="col"
+              />
+            </tr>
+          </thead>
+          <tbody
+            class="MuiTableBody-root"
+          >
+            <tr
+              class="MuiTableRow-root MuiTableRow-hover"
+              style="height: 72px;"
+              tabindex="-1"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="MuiTableRow-root MuiTableRow-hover"
+              style="height: 72px;"
+              tabindex="-1"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="MuiTableRow-root MuiTableRow-hover"
+              style="height: 72px;"
+              tabindex="-1"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="MuiTableRow-root MuiTableRow-hover"
+              style="height: 72px;"
+              tabindex="-1"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+            </tr>
+            <tr
+              class="MuiTableRow-root MuiTableRow-hover"
+              style="height: 72px;"
+              tabindex="-1"
+            >
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859"
+                scope="row"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+              <td
+                class="MuiTableCell-root MuiTableCell-body makeStyles-tableCell-859 MuiTableCell-paddingCheckbox"
+              >
+                <div
+                  class="MuiGrid-root makeStyles-skeletonGrid-864 MuiGrid-container MuiGrid-direction-xs-column"
+                >
+                  <span>
+                    <span
+                      class="css-19bon8n"
+                      style="animation: animation-16jpnkj 1.2s ease-in-out infinite;"
+                    >
+                      ‌
+                    </span>
+                  </span>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;

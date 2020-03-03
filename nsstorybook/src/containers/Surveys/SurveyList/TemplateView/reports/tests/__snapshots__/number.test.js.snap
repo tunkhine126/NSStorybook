@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Number /> Should render and match the snapshot 1`] = `
+<p
+  class="MuiTypography-root makeStyles-numberType-55 MuiTypography-body1"
+>
+  Average
+  : 
+  <span
+    class="makeStyles-numberValue-56"
+  >
+    5
+  </span>
+</p>
+`;

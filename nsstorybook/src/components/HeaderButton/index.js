@@ -11,7 +11,7 @@ import clsx from 'clsx';
 import Button from '@material-ui/core/Button';
 import Input from '@material-ui/core/Input';
 
-import SolidDownArrow from 'components/shared/Icons/solidDownArrow';
+import SolidDownArrow from '../Icons/solidDownArrow';
 import { headerButtonStyles, SelectBtnStyle } from './styles';
 
 function HeaderButton({

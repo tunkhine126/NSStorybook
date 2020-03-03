@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> Should render and match the snapshot 1`] = `
+<div
+  class="MuiGrid-root makeStyles-chartContainer-179"
+>
+  <div
+    class="MuiGrid-root makeStyles-container-300 MuiGrid-container MuiGrid-align-items-xs-center"
+  >
+    <div
+      class="MuiGrid-root makeStyles-percentageContainer-301 MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-percentageText-302 MuiTypography-body1"
+      >
+        0
+        %
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-barContainer-299 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+    >
+      <div
+        class="makeStyles-percentageBar-303"
+      />
+      <div
+        class="MuiGrid-root makeStyles-barTextContainer-298 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root makeStyles-responseContainer-304"
+        >
+          <p
+            class="MuiTypography-root makeStyles-responseText-305 MuiTypography-body1"
+          >
+            Test Options 1
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root"
+        >
+          <p
+            class="MuiTypography-root makeStyles-numberOfResponses-306 MuiTypography-body1"
+          >
+            0
+             
+            Responses
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-container-339 MuiGrid-container MuiGrid-align-items-xs-center"
+  >
+    <div
+      class="MuiGrid-root makeStyles-percentageContainer-340 MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-percentageText-341 MuiTypography-body1"
+      >
+        0
+        %
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-barContainer-338 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+    >
+      <div
+        class="makeStyles-percentageBar-342"
+      />
+      <div
+        class="MuiGrid-root makeStyles-barTextContainer-337 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root makeStyles-responseContainer-343"
+        >
+          <p
+            class="MuiTypography-root makeStyles-responseText-344 MuiTypography-body1"
+          >
+            Test Options 2
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root"
+        >
+          <p
+            class="MuiTypography-root makeStyles-numberOfResponses-345 MuiTypography-body1"
+          >
+            0
+             
+            Responses
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-container-348 MuiGrid-container MuiGrid-align-items-xs-center"
+  >
+    <div
+      class="MuiGrid-root makeStyles-percentageContainer-349 MuiGrid-item"
+    >
+      <p
+        class="MuiTypography-root makeStyles-percentageText-350 MuiTypography-body1"
+      >
+        0
+        %
+      </p>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-barContainer-347 MuiGrid-container MuiGrid-item MuiGrid-align-items-xs-center MuiGrid-grid-xs-true"
+    >
+      <div
+        class="makeStyles-percentageBar-351"
+      />
+      <div
+        class="MuiGrid-root makeStyles-barTextContainer-346 MuiGrid-container MuiGrid-item MuiGrid-justify-xs-space-between"
+      >
+        <div
+          class="MuiGrid-root makeStyles-responseContainer-352"
+        >
+          <p
+            class="MuiTypography-root makeStyles-responseText-353 MuiTypography-body1"
+          >
+            Test Options 3
+          </p>
+        </div>
+        <div
+          class="MuiGrid-root"
+        >
+          <p
+            class="MuiTypography-root makeStyles-numberOfResponses-354 MuiTypography-body1"
+          >
+            0
+             
+            Responses
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
