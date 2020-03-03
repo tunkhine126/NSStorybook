@@ -12,7 +12,7 @@ import { NSButtonStyles, btnLinkStyles } from '../components/NSButton/styles'
 import { createMuiTheme, makeStyles } from '@material-ui/core/styles';
 import clsx from 'clsx';
 // import { FormattedMessage } from 'react-intl';
-// import TextLink from '../components/TextLink';
+import TextLink from '../components/TextLink';
 // import globalMessages from 'messages';
 
 
@@ -152,7 +152,7 @@ export function ButtonContainer({
           Header V1
         </HeaderButton>
         <HeaderButton version={2} className={clsx(classes.customInput)}>Header V2</HeaderButton>
-        <HeaderButton version={3}>Header V3</HeaderButton>
+        <HeaderButton version={3} className={clsx(classes.btn)}>Header V3</HeaderButton>
         <HeaderButton version={4} className={clsx(classes.btn)}>Header V4</HeaderButton>
       </p>
     </BrowserRouter>
