@@ -11,8 +11,7 @@ import { Edit, MoreHoriz, CheckCircleIcon, ErrorIcon, InfoIcon, WarningIcon, Che
 import { NSButtonStyles, btnLinkStyles } from '../components/NSButton/styles'
 import { createMuiTheme, makeStyles } from '@material-ui/core/styles';
 import clsx from 'clsx';
-// import { FormattedMessage } from 'react-intl';
-import TextLink from '../components/TextLink';
+import { FormattedMessage } from 'react-intl';
 // import globalMessages from 'messages';
 
 
@@ -51,6 +50,7 @@ export function ButtonContainer({
           className="MuiButton" 
           onClick={action("I've been clicked")}>
           Base
+          {/* <FormattedMessage {...appMessages.cancel}/> */}
         </button>
       &nbsp;
         <button className="MuiButton-contained" onClick={action("I've been clicked!")}>

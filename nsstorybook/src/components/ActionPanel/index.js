@@ -13,7 +13,7 @@ import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 import CircularProgress from '@material-ui/core/CircularProgress';
 
-import appMessages from 'messages';
+// import appMessages from 'messages';
 import { actionPanelStyles } from './styles';
 
 export function ActionPanel({
@@ -52,11 +52,11 @@ export function ActionPanel({
                   color="primary"
                 />
               ) : (
-                <FormattedMessage {...appMessages[action]} />
+                {/* <FormattedMessage {...appMessages[action]} /> */}
               )}
             </Button>
             <Button className={classes.cancelBtn} onClick={resetForm}>
-              <FormattedMessage {...appMessages.cancel} />
+              {/* <FormattedMessage {...appMessages.cancel} /> */}
             </Button>
           </Grid>
         </div>
