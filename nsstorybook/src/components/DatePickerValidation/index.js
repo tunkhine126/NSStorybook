@@ -5,7 +5,7 @@
  */
 
 import React from 'react';
-import { asField } from 'informed';
+// import { asField } from 'informed';
 import moment from 'moment';
 import clsx from 'clsx';
 import DateFnsUtils from '@date-io/date-fns';

@@ -1,9 +1,8 @@
-import React, { Component, useState } from 'react';
+import React, { useState } from 'react';
 import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
-import PropTypes from 'prop-types';
 import ActionPanel from '../components/ActionPanel/index'
-import { actionPanelStyles } from '../components/ActionPanel/styles';
+// import { actionPanelStyles } from '../components/ActionPanel/styles';
 
 
 
@@ -12,15 +11,9 @@ export default {
   component: ActionPanel,
 };
 
-export function ActionPanelContainer({
-  formId,
-  type,
-  resetForm,
-  disabled,
-  loading,
-}) {
+export function ActionPanelContainer() {
 
-  const classes = actionPanelStyles();
+  // const classes = actionPanelStyles();
   const [loadingState, setloadingState] = useState(true);
   const [messageState, setmessageState] = useState({
     message: '',

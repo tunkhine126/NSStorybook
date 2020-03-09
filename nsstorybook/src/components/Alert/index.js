@@ -12,7 +12,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import MuiAlert from '@material-ui/lab/Alert';
 import Collapse from '@material-ui/core/Collapse';
 import { makeStyles } from '@material-ui/core/styles';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 const styles = makeStyles(() => ({
   root: { borderRadius: 0, boxShadow: '0px 1px 3px rgba(0, 0, 0, 0.2)' },
