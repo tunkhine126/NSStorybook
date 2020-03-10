@@ -9,7 +9,7 @@ import PropTypes from 'prop-types';
 
 import Grid from '@material-ui/core/Grid';
 
-import NSFields from 'components/shared/NSFields';
+import NSFields from '../NSFields';
 
 import { required } from 'utils/validations';
 import { commonStyles } from './styles';

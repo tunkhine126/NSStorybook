@@ -12,7 +12,7 @@ import MoreHoriz from '@material-ui/icons/MoreHoriz';
 import IconButton from '@material-ui/core/IconButton';
 import Menu from '@material-ui/core/Menu';
 
-import NSMenuItem from 'components/shared/NSMenuItem';
+import NSMenuItem from '../NSMenuItem';
 import { styles } from './styles';
 
 export function Horiz({ actions, id }) {
