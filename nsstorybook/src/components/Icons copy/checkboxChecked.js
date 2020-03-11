@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 // eslint-disable-next-line react/display-name
 const CheckboxChecked = React.forwardRef((props, ref) => (

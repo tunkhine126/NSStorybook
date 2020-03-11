@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 const WideRightArrow = ({ classes, childRoute }) => (
   <svg

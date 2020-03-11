@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import PropTypes from 'prop-types';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 const HamburgerArrow = ({ classes, sideNavOpen }) => (
   <svg
