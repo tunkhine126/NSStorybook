@@ -1,5 +1,4 @@
 import React from 'react';
-import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
 import Icons from './Icons'
 import NSButton  from '../components/NSButton/index';
@@ -29,7 +28,7 @@ export function IconsContainer() {
         <h3>SVG Icons</h3>
           <p><ActiveRightArrow/> Active Right Arrow </p>
           <p><ActiveLeftArrow/> Active Left Arrow </p>
-          <p><CheckboxChecked/>  Checkbox checked </p>
+          <p><CheckboxChecked/> Checkbox checked </p>
           <p><CheckMark/> Check mark </p>
           <p><CustomCheckbox/> Custom Checkbox </p>
           <p><HamburgerArrow classes={{ show: 'test' }} /> Hamburger Arrow </p>

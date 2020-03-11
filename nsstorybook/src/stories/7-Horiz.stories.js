@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
 import Horiz from '../components/Horiz/index'
@@ -11,9 +11,7 @@ export default {
 };
 
 
-export function HorizContainer({
-  
-}) {
+export function HorizContainer(){
 
   const classes = styles();
   const horizActions = [

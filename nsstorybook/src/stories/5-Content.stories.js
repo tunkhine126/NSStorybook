@@ -3,11 +3,9 @@ import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
 import Content from '../components/Content'
 import Checkbox from '@material-ui/core/Checkbox';
-import button from '@material-ui/core';
 import NSButton from '../components/NSButton/index';
-import { NSButtonStyles } from '../components/NSButton/styles'
 import clsx from 'clsx';
-import { commonStyles, InputWrapper } from '../components/NewRecipient/styles';
+import { commonStyles } from '../components/NewRecipient/styles';
 import ActionPanel from '../components/ActionPanel/index'
 
 
@@ -24,11 +22,11 @@ export function ContentContainter({
   screen,
 }) {
 
-const headerScreen = (screen && screen.header.xs) || 3;
-const bodyScreen = (screen && screen.header.xs) || 9;
+// const headerScreen = (screen && screen.header.xs) || 3;
+// const bodyScreen = (screen && screen.header.xs) || 9;
 // const classes = NSButtonStyles(); 
 const classes = commonStyles();
-const [loadingState, setloadingState] = useState(true);
+const [loadingState] = useState(true);
 
 return (
   <BrowserRouter>

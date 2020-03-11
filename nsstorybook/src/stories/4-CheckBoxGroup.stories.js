@@ -7,7 +7,7 @@ import CheckboxChecked from '../components/Icons/checkboxChecked';
 import IntermediateCheckbox from '../components/Icons/intermediateCheckbox'
 
 export default {
-  title: 'Checkbox Icons',
+  title: 'Radio button icons',
   component: Checkbox,
 };
 

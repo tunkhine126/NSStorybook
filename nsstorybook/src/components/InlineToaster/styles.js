@@ -1,6 +1,6 @@
 import { makeStyles } from '@material-ui/core/styles';
 import styled from 'styled-components';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 export const inlineToasterStyle = makeStyles(theme => ({
   success: {

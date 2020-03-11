@@ -14,12 +14,12 @@ export default {
 export function ActionPanelContainer() {
 
   // const classes = actionPanelStyles();
-  const [loadingState, setloadingState] = useState(true);
-  const [messageState, setmessageState] = useState({
-    message: '',
-    open: false,
-    type: 'success',
-  });
+  const [loadingState] = useState(true);
+  // const [messageState, setmessageState] = useState({
+  //   message: '',
+  //   open: false,
+  //   type: 'success',
+  // });
 
   return (
     <BrowserRouter>

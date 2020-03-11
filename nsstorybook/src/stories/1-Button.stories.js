@@ -1,17 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { action } from '@storybook/addon-actions';
 import { BrowserRouter } from 'react-router-dom'
-import PropTypes from 'prop-types';
 import NSButton from '../components/NSButton/index'
 import HeaderButton from '../components/HeaderButton/index'
-import { headerButtonStyles, SelectBtnStyle } from '../components/HeaderButton/styles'
-import colors from '../../src/global-styles';
-import { button, Typography, Collapse, IconButton, SnackbarContent, Checkbox, Input } from '@material-ui/core';
-import { Edit, MoreHoriz, CheckCircleIcon, ErrorIcon, InfoIcon, WarningIcon, CheckBox } from '@material-ui/icons';
-import { NSButtonStyles, btnLinkStyles } from '../components/NSButton/styles'
-import { createMuiTheme, makeStyles } from '@material-ui/core/styles';
+import { headerButtonStyles } from '../components/HeaderButton/styles'
+import { button, Typography, IconButton, Checkbox } from '@material-ui/core';
+import { Edit, MoreHoriz } from '@material-ui/icons';
+import { NSButtonStyles } from '../components/NSButton/styles'
 import clsx from 'clsx';
-import { FormattedMessage } from 'react-intl';
+// import { FormattedMessage } from 'react-intl';
 // import globalMessages from 'messages';
 
 export default {
@@ -29,16 +26,6 @@ export function ButtonContainer({
   ...rest
 }) {
   const classes = NSButtonStyles(); headerButtonStyles(bgColor, padding)();
-  const danger = version === 3 ? classes.negative : classes.primary;
-  const type = version === 2 ? classes.secondary : danger;
-  let element;
-  
-  const variantIcon = {
-    success: CheckCircleIcon,
-    warning: WarningIcon,
-    error: ErrorIcon,
-    info: InfoIcon,
-  };
 
   return (
     <BrowserRouter>
