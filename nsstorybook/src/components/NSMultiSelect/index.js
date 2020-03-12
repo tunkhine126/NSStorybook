@@ -15,9 +15,9 @@ import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select';
 import Chip from '@material-ui/core/Chip';
 
-import colors from 'global-styles';
+import colors from '../../global-styles';
 import { useNSMultiSelectStyle, styles } from './styles';
-import PillClose from '../Icons/pillClose';
+import PillClose from '../Icons copy/pillClose';
 
 function NSMultiSelect({
   values,

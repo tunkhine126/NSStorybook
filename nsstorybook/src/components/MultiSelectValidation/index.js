@@ -9,7 +9,7 @@ import { asField } from 'informed';
 import clsx from 'clsx';
 
 import { inputStyles, SelectStyle } from '../../global-styles';
-import NSMultiSelect from 'components/shared/NSMultiSelect';
+import NSMultiSelect from '../NSMultiSelect/index';
 
 export const MultiSelectValidation = asField(
   ({ fieldApi, fieldState, ...props }) => {

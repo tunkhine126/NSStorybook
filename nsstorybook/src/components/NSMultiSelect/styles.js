@@ -1,5 +1,5 @@
 import { makeStyles } from '@material-ui/core/styles';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 
 export const styles = (width = '100%', maxWidth) =>
   makeStyles({
