@@ -1,6 +1,5 @@
 import React from 'react';
 import { action } from '@storybook/addon-actions';
-import { BrowserRouter } from 'react-router-dom'
 import MultiSelectValidation from '../components/MultiSelectValidation/index'
 import { required } from '../utils/validations';
 
