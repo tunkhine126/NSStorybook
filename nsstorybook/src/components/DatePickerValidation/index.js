@@ -5,7 +5,7 @@
  */
 
 import React from 'react';
-// import { asField } from 'informed';
+import { asField } from 'informed';
 import moment from 'moment';
 import clsx from 'clsx';
 import DateFnsUtils from '@date-io/date-fns';
@@ -14,7 +14,7 @@ import {
   KeyboardDatePicker,
 } from '@material-ui/pickers';
 
-import { inputStyles, DatePickerStyle } from 'global-styles';
+import { inputStyles, DatePickerStyle } from '../../global-styles';
 
 export const DatePickerValidation = asField(
   ({ fieldApi, fieldState, ...props }) => {

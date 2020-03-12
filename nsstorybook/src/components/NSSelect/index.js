@@ -14,7 +14,7 @@ import Select from '@material-ui/core/Select';
 import MenuItem from '@material-ui/core/MenuItem';
 import OutlinedInput from '@material-ui/core/OutlinedInput';
 
-import colors from 'global-styles';
+import colors from '../../global-styles';
 import { styles, useNSSelectStyle } from './styles';
 
 function NSSelect({

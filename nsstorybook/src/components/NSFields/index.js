@@ -8,11 +8,11 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import moment from 'moment';
 
-import DatePickerValidation from 'components/shared/DatePickerValidation';
-import TimePickerValidation from 'components/shared/TimePickerValidation';
-import SelectValidation from 'components/shared/SelectValidation';
-import MultiSelectValidation from 'components/shared/MultiSelectValidation';
-import InputValidation from 'components/shared/InputValidation';
+import DatePickerValidation from '../DatePickerValidation/index';
+import TimePickerValidation from '../TimePickerValidation/index';
+import SelectValidation from '../SelectValidation/index';
+import MultiSelectValidation from '../MultiSelectValidation/index';
+import InputValidation from '../InputValidation/index';
 import Photo from './photo';
 
 import { SelectWrapper } from './styles';

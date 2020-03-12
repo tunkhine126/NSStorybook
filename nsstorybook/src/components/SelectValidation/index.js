@@ -8,8 +8,8 @@ import React from 'react';
 import { asField } from 'informed';
 import clsx from 'clsx';
 
-import { inputStyles, SelectStyle } from 'global-styles';
-import NSSelect from 'components/shared/NSSelect';
+import { inputStyles, SelectStyle } from '../../global-styles';
+import NSSelect from '../NSSelect/index';
 
 export const SelectValidation = asField(
   ({ fieldApi, fieldState, ...props }) => {

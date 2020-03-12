@@ -13,7 +13,7 @@ import {
   MuiPickersUtilsProvider,
   KeyboardTimePicker,
 } from '@material-ui/pickers';
-import { inputStyles, DatePickerStyle } from 'global-styles';
+import { inputStyles, DatePickerStyle } from '../../global-styles';
 
 export const TimePickerValidation = asField(
   ({ fieldApi, fieldState, ...props }) => {

@@ -1,6 +1,6 @@
 import { makeStyles } from '@material-ui/core/styles';
 import { green, amber } from '@material-ui/core/colors';
-import colors from 'global-styles';
+import colors from '../../global-styles';
 import styled from 'styled-components';
 
 const separatorGray = '#BBBBBB';
