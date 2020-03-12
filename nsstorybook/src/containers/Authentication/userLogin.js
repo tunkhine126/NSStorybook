@@ -18,7 +18,7 @@ import CircularProgress from '@material-ui/core/CircularProgress';
 // Helpers
 import { useInjectReducer } from 'utils/injectReducer';
 import { setLocalStorage } from 'utils/helpers';
-import { ROUTES, LOCAL_STORAGE } from 'utils/globalConstants';
+import { ROUTES, LOCAL_STORAGE } from '../../utils/globalConstants';
 import globalMessages from 'messages';
 import messages from './messages';
 

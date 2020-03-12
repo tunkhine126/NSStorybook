@@ -8,7 +8,7 @@ import Avatar from '@material-ui/core/Avatar';
 import Chip from '@material-ui/core/Chip';
 
 import LinkRouter from 'components/shared/LinkRouter';
-import { ROUTES } from 'utils/globalConstants';
+import { ROUTES } from '../../../utils/globalConstants';
 
 export function formatData(
   family,

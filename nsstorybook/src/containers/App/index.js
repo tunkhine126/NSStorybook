@@ -19,7 +19,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import Grid from '@material-ui/core/Grid';
 
 // Routes
-import { ROUTES, LOCAL_STORAGE } from 'utils/globalConstants';
+import { ROUTES, LOCAL_STORAGE } from '../../utils/globalConstants';
 import { loadPrivateRoutes } from 'routes/private';
 import { loadPublicRoutes } from 'routes/public';
 
@@ -33,7 +33,7 @@ import Loading from 'components/shared/Loading';
 import { setOrg as setOrganization } from 'containers/App/actions';
 import { makeSelectOrg } from 'containers/App/selectors';
 
-import { getLocalStorage } from 'utils/helpers';
+import { getLocalStorage } from '../../utils/helpers';
 import { generalErrorHandler } from 'utils/error-handler';
 import { GlobalStyle, globalTheme } from 'global-styles';
 

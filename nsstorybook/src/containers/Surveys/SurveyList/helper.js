@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 
 import LinkRouter from 'components/shared/LinkRouter';
-import { ROUTES } from 'utils/globalConstants';
+import { ROUTES } from '../../../utils/globalConstants';
 
 export function formatData(
   name,

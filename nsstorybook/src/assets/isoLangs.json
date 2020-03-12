@@ -1,0 +1,14 @@
+[
+  { "code": "en", "name": "English", "nativeName": "English" },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "español"
+  },
+  { "code": "pt", "name": "Portuguese", "nativeName": "Português" },
+  {
+    "code": "ht",
+    "name": "Haitian Creole",
+    "nativeName": "Kreyòl ayisyen"
+  }
+]

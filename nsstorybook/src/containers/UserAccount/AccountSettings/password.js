@@ -11,7 +11,7 @@ import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 import LinkRouter from 'components/shared/LinkRouter';
 
-import { ROUTES } from 'utils/globalConstants';
+import { ROUTES } from '../../../utils/globalConstants';
 import messages from '../messages';
 import { commonStyles } from '../styles';
 

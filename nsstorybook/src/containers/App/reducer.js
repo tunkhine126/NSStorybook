@@ -5,8 +5,8 @@
  */
 import produce from 'immer';
 
-import { LOCAL_STORAGE } from 'utils/globalConstants';
-import { setLocalStorage } from 'utils/helpers';
+import { LOCAL_STORAGE } from '../../utils/globalConstants';
+import { setLocalStorage } from '../../utils/helpers';
 import { SHOW_TOASTER, HIDE_TOASTER, SET_ORG } from './constants';
 
 export const initialState = (window.Cypress && window.initialState) || {

@@ -7,7 +7,7 @@
 import React from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
+import { connect } from 'react-redux'
 import clsx from 'clsx';
 
 import ExpandLess from '@material-ui/icons/ExpandLess';
@@ -16,7 +16,7 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 
-import { BREAD_CRUMB_NAME_MAP, ROUTES } from 'utils/globalConstants';
+import { BREAD_CRUMB_NAME_MAP, ROUTES } from '../../utils/globalConstants';
 
 // eslint-disable-next-line no-unused-vars
 function ListItemLink({ to, open, isNested, classes, label, icon, ...other }) {

@@ -8,7 +8,7 @@ import React from 'react';
 import { asField } from 'informed';
 import clsx from 'clsx';
 
-import { inputStyles, SelectStyle } from 'global-styles';
+import { inputStyles, SelectStyle } from '../../global-styles';
 import NSMultiSelect from 'components/shared/NSMultiSelect';
 
 export const MultiSelectValidation = asField(

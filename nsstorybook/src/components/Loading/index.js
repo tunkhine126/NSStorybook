@@ -10,7 +10,7 @@ import Lottie from 'react-lottie';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 
-import revealLogo from '../../../assets/reveal_logo.json';
+import revealLogo from '../../assets/reveal_logo.json';
 
 const styles = makeStyles(() => ({
   container: {

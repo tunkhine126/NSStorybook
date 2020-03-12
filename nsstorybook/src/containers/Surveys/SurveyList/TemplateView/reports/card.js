@@ -14,7 +14,7 @@ import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
 
 // Components
-import { DATA_TYPES } from 'utils/globalConstants';
+import { DATA_TYPES } from '../../../../../utils/globalConstants';
 import globalMessages from 'messages';
 import messages from '../../../messages';
 import { styles } from './styles';

@@ -11,7 +11,7 @@ import { MemoryRouter, browserHistory } from 'react-router-dom';
 import { ApolloProvider } from '@apollo/react-hooks';
 import { IntlProvider } from 'react-intl';
 import configureStore from 'configureStore';
-import { DEFAULT_LOCALE } from 'i18n';
+import { DEFAULT_LOCALE } from '../../i18n';
 import client from 'utils/apollo-client';
 
 function TestingComponent(props) {

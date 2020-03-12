@@ -16,7 +16,7 @@ import { ApolloProvider } from 'react-apollo';
 
 import client from 'utils/apollo-client';
 
-import { DEFAULT_LOCALE } from 'i18n';
+import { DEFAULT_LOCALE } from '../../../i18n';
 import configureStore from 'configureStore';
 import { Authentication } from '../index';
 

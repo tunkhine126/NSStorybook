@@ -16,7 +16,7 @@ import Grid from '@material-ui/core/Grid';
 import IconButton from '@material-ui/core/IconButton';
 import DeleteIcon from '@material-ui/icons/Delete';
 
-import { generateImg } from 'utils/helpers';
+import { generateImg } from '../../utils/helpers';
 import { inputStyles } from 'global-styles';
 import globalMessage from 'messages';
 import { styles } from './styles';

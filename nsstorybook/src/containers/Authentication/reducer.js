@@ -5,7 +5,7 @@
  */
 import produce from 'immer';
 import Cookies from 'js-cookie';
-import { LOCAL_STORAGE } from 'utils/globalConstants';
+import { LOCAL_STORAGE } from '../../utils/globalConstants';
 import { AUTHENTICATE, LOGOUT } from './constants';
 
 export const initialState = (window.Cypress && window.initialState) || {

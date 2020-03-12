@@ -33,7 +33,7 @@ import Loading from 'components/shared/Loading';
 import ViewHeader from 'components/shared/ViewHeader';
 import Notification from 'components/shared/Notification';
 import globalMessages from 'messages';
-import { filterObj } from 'utils/helpers';
+import { filterObj } from '../../utils/helpers';
 import { commonStyles, InputWrapper } from './styles';
 import Fields from './fields';
 

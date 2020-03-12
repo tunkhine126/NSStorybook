@@ -7,8 +7,8 @@
 import React from 'react';
 import clsx from 'clsx';
 import { asField } from 'informed';
-import NSInput from 'components/shared/NSInput';
-import { inputStyles } from 'global-styles';
+import NSInput from '../NSInput/index';
+import { inputStyles } from '../../global-styles';
 import { styles } from './styles';
 
 const InputValidation = asField(({ fieldState, fieldApi, ...props }) => {
