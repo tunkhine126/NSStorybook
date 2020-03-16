@@ -18,10 +18,10 @@ import TextField from '@material-ui/core/TextField';
 import InputAdornment from '@material-ui/core/InputAdornment';
 import Search from '@material-ui/icons/Search';
 
-import TextLink from 'components/shared/TextLink';
-import { resetNestedLevels } from 'utils/helpers';
-import CheckBoxGroup from 'components/shared/CheckboxGroup';
-import globalMessages from 'messages';
+import TextLink from '../TextLink/index';
+import { resetNestedLevels } from '../../utils/helpers';
+import CheckBoxGroup from '../CheckboxGroup/index';
+import globalMessages from '../../messages';
 import {
   SelectFilterStyles,
   multiSelectSearchClasses,

@@ -22,18 +22,18 @@ export function ActionPanelContainer() {
   // });
 
   return (
-    <BrowserRouter>
-    <h3>Action Panel Loading</h3>
-      <ActionPanel
-            action=""
-            type=""
-            formId=""
-            resetForm={action("I've been clicked")}
-            loading={loadingState}
-            disabled={loadingState}>
-            Button
-      </ActionPanel>
-    <p>An Action Panel usually consists of a button(s) and when clicked will have some loading state before delivering a message</p>
-    </BrowserRouter>
+    <div className="ActionPanel">
+      <h3>Action Panel Loading</h3>
+        <ActionPanel
+          action=""
+          type=""
+          formId=""
+          resetForm={action("I've been clicked")}
+          loading={loadingState}
+          disabled={loadingState}>
+          Button
+        </ActionPanel>
+      <p>An Action Panel usually consists of a button(s) and when clicked will have some loading state before delivering a message</p>
+    </div>
   );
 }

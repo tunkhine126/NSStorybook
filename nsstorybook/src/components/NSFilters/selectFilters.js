@@ -13,7 +13,7 @@ import Menu from '@material-ui/core/Menu';
 import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 
-import SolidDownArrow from 'components/shared/Icons/solidDownArrow';
+import SolidDownArrow from '../Icons copy/solidDownArrow';
 import { NSFiltersContext } from './context/filters';
 import SingleSelect from './single';
 import MultiSelect from './multi';

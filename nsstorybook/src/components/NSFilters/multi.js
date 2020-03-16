@@ -16,7 +16,7 @@ import TextField from '@material-ui/core/TextField';
 import InputAdornment from '@material-ui/core/InputAdornment';
 import Search from '@material-ui/icons/Search';
 
-import CheckBoxGroup from 'components/shared/CheckboxGroup';
+import CheckBoxGroup from '../CheckboxGroup/index';
 import { NSFiltersContext } from './context/filters';
 import { SelectFilterStyles, multiSelectSearchClasses } from './styles';
 

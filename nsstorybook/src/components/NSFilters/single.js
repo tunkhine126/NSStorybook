@@ -21,9 +21,9 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import FormControl from '@material-ui/core/FormControl';
 import KeyboardBackspaceIcon from '@material-ui/icons/KeyboardBackspace';
 
-import ActiveRightArrow from 'components/shared/Icons/activeRightArrow';
-import ActiveLeftArrow from 'components/shared/Icons/activeLeftArrow';
-import { generateISODate } from 'utils/helpers';
+import ActiveRightArrow from '../Icons copy/activeRightArrow';
+import ActiveLeftArrow from '../Icons copy/activeLeftArrow';
+import { generateISODate } from '../../utils/helpers';
 import { NSFiltersContext } from './context/filters';
 import { SelectFilterStyles } from './styles';
 

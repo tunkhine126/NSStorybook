@@ -13,10 +13,10 @@ import Grid from '@material-ui/core/Grid';
 import Chip from '@material-ui/core/Chip';
 import Typography from '@material-ui/core/Typography';
 
-import { resetNestedLevels } from 'utils/helpers';
+import { resetNestedLevels } from '../../utils/helpers';
 import SelectFilter from './selectFilters';
 import { NSFiltersContext } from './context/filters';
-import PillClose from '../Icons/pillClose';
+import PillClose from '../Icons copy/pillClose';
 import { styles, InputFormatStyle, SelectFormatStyle } from './styles';
 
 function NSFilters({ intl, messages, filterQueryTriggers }) {

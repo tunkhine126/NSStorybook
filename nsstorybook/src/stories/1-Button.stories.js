@@ -1,6 +1,5 @@
 import React from 'react';
 import { action } from '@storybook/addon-actions';
-import { BrowserRouter } from 'react-router-dom'
 import NSButton from '../components/NSButton/index'
 import HeaderButton from '../components/HeaderButton/index'
 import { headerButtonStyles } from '../components/HeaderButton/styles'
@@ -28,7 +27,7 @@ export function ButtonContainer({
   const classes = NSButtonStyles(); headerButtonStyles(bgColor, padding)();
 
   return (
-    <BrowserRouter>
+    <div className="All_Buttons">
     <h3>Material-UI Buttons</h3>
       <p>
         <button 
@@ -140,7 +139,7 @@ export function ButtonContainer({
         <HeaderButton version={3} className={clsx(classes.btn)}>Header V3</HeaderButton>
         <HeaderButton version={4} className={clsx(classes.btn)}>Header V4</HeaderButton>
       </p>
-    </BrowserRouter>
+    </div>
   );
 }
 
