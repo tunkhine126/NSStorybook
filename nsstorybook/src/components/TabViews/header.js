@@ -14,8 +14,8 @@ import Card from '@material-ui/core/Card';
 import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 
-import placeHolderImg from 'assets/images/familyPlaceholder.png';
-import { generateImg } from 'utils/helpers';
+import placeHolderImg from '../../assets/images/familyPlaceholder.png';
+import { generateImg } from '../../utils/helpers';
 import { headerStyles } from './styles';
 
 function a11yProps(name) {
