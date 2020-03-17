@@ -15,7 +15,6 @@ export function TextLinkContainer(message) {
   return (
     <div>
       <h3>Text link example</h3>
-      
       <p>
         <TextLink content="Example 1"/>
       </p>
