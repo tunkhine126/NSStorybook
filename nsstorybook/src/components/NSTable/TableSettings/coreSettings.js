@@ -17,8 +17,8 @@ import ViewStream from '@material-ui/icons/ViewStream';
 import ViewHeadline from '@material-ui/icons/ViewHeadline';
 import ToggleButton from '@material-ui/lab/ToggleButton';
 
-import NSButton from 'components/shared/NSButton';
-import NSSelect from 'components/shared/NSSelect';
+import NSButton from '../../NSButton/index';
+import NSSelect from '../../NSSelect/index';
 import CheckBoxGroup from '../checkboxGroup';
 import messages from '../messages';
 import { styles, tsSelectStyle } from '../styles';

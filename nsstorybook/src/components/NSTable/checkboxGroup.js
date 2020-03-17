@@ -13,9 +13,9 @@ import ListItemText from '@material-ui/core/ListItemText';
 import Checkbox from '@material-ui/core/Checkbox';
 import Typography from '@material-ui/core/Typography';
 
-import CustomCheckBox from 'components/shared/Icons/customCheckbox';
-import CheckboxChecked from 'components/shared/Icons/checkboxChecked';
-import IntermediateCheckbox from 'components/shared/Icons/intermediateCheckbox';
+import CustomCheckBox from '../Icons copy/customCheckbox';
+import CheckboxChecked from '../Icons copy/checkboxChecked';
+import IntermediateCheckbox from '../Icons copy/intermediateCheckbox';
 
 import { styles, listItemTextStyles, CheckBoxWrapper } from './styles';
 

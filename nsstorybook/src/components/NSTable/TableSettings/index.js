@@ -15,7 +15,7 @@ import Menu from '@material-ui/core/Menu';
 import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 
-import SolidDownArrow from 'components/shared/Icons/solidDownArrow';
+import SolidDownArrow from '../../Icons copy/solidDownArrow';
 import CoreSettings from './coreSettings';
 import ReorderView from './reorderView';
 import messages from '../messages';

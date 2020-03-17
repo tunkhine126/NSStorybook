@@ -15,11 +15,11 @@ import TablePagination from '@material-ui/core/TablePagination';
 import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 
-import resizableGrid from 'utils/tableResizer';
-import NSTableHead from 'components/shared/NSTable/nsTableHead';
-import NSFilters from 'components/shared/NSTable/nsFilters';
-import PaginationControls from 'components/shared/NSTable/paginationControls';
-import NSTableBody from 'components/shared/NSTable/nsTableBody';
+import resizableGrid from '../../utils/tableResizer';
+import NSTableHead from '../NSTable/nsTableHead';
+import NSFilters from '../NSTable/nsTableHead';
+import PaginationControls from '../NSTable/paginationControls';
+import NSTableBody from '../NSTable/nsTableBody';
 import { NSFiltersProvider } from './context/filters';
 import tableMessages from './messages';
 

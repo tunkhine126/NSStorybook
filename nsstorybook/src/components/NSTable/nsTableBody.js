@@ -15,9 +15,9 @@ import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import Grid from '@material-ui/core/Grid';
 
-import CustomCheckBox from 'components/shared/Icons/customCheckbox';
-import CheckboxChecked from 'components/shared/Icons/checkboxChecked';
-import Horiz from 'components/shared/Horiz';
+import CustomCheckBox from '../Icons copy/customCheckbox';
+import CheckboxChecked from '../Icons copy/checkboxChecked';
+import Horiz from '../Horiz/index';
 
 import { styles } from './styles';
 

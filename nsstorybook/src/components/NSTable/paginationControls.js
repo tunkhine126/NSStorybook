@@ -14,7 +14,7 @@ import ArrowBack from '@material-ui/icons/ArrowBackIos';
 import Typography from '@material-ui/core/Typography';
 import TextField from '@material-ui/core/TextField';
 
-import TextLink from 'components/shared/TextLink';
+import TextLink from '../TextLink/index';
 import messages from './messages';
 import { styles } from './styles';
 

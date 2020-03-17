@@ -14,8 +14,8 @@ import update from 'immutability-helper';
 import Typography from '@material-ui/core/Typography';
 import Grid from '@material-ui/core/Grid';
 
-import NSButton from 'components/shared/NSButton';
-import globalMessages from 'messages';
+import NSButton from '../../NSButton/index';
+import globalMessages from '../../../messages';
 import NSCard from '../nsCard';
 import messages from '../messages';
 import { styles } from '../styles';

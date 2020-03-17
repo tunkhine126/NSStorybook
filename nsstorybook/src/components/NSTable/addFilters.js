@@ -17,12 +17,12 @@ import ListItemText from '@material-ui/core/ListItemText';
 import Checkbox from '@material-ui/core/Checkbox';
 import Typography from '@material-ui/core/Typography';
 
-import CustomCheckBox from 'components/shared/Icons/customCheckbox';
-import CheckboxChecked from 'components/shared/Icons/checkboxChecked';
-import TextLink from 'components/shared/TextLink';
+import CustomCheckBox from '../Icons copy/customCheckbox';
+import CheckboxChecked from '../Icons copy/checkboxChecked';
+import TextLink from '../TextLink/index';
 import globalMessages from 'messages';
-import HeaderButton from 'components/shared/HeaderButton';
-import messages from './messages';
+import HeaderButton from '../HeaderButton/index';
+import messages from '../../messages';
 import { styles, helperClasses, listItemStyles, SelectStyles } from './styles';
 
 function AddFilters({ filterCategories, filters, handlechange, handleReset }) {

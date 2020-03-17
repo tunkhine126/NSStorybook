@@ -21,22 +21,22 @@ import OpenInNew from '@material-ui/icons/OpenInNew';
 // import Edit from '@material-ui/icons/Edit';
 // import ImportExport from '@material-ui/icons/ImportExport';
 
-import NSTable from 'components/shared/NSTable';
-import LookUp from 'components/shared/Icons/lookup';
-import HeaderButton from 'components/shared/HeaderButton';
-import ViewHeader from 'components/shared/ViewHeader';
-import tableMessages from 'components/shared/NSTable/messages';
-import TableViews from 'components/shared/NSTable/tableViews';
-import { makeSelectOrg } from 'containers/App/selectors';
-import { GET_RECIPIENTS } from 'graphql/queries/recipients';
+import NSTable from '../NSTable/index';
+import LookUp from '../Icons copy/lookup';
+import HeaderButton from '../HeaderButton/index';
+import ViewHeader from '../ViewHeader/index';
+import tableMessages from '../NSTable/messages';
+import TableViews from '../NSTable/tableViews';
+import { makeSelectOrg } from '../../containers/App/selectors';
+import { GET_RECIPIENTS } from '../../graphql/queries/recipients';
 import {
   GET_ALL_RECIPIENTS,
   GET_ALL_FILTERED_RECIPIENTS,
   GET_ALL_SURVEYS,
-} from 'graphql/queries/all-queries';
-import colors from 'global-styles';
-import { generalErrorHandler } from 'utils/error-handler';
-import globalMessages from 'messages';
+} from '../../graphql/queries/all-queries';
+import colors from '../../global-styles';
+import { generalErrorHandler } from '../../utils/error-handler';
+import globalMessages from '../../messages';
 import { formattedColumns as importedFC, generateColumns } from './helper';
 import {
   RecipientListStyle,

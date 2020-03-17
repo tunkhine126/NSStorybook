@@ -21,11 +21,11 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Grid from '@material-ui/core/Grid';
 import Typography from '@material-ui/core/Typography';
 
-import TextLink from 'components/shared/TextLink';
-import CustomCheckBox from 'components/shared/Icons/customCheckbox';
-import CheckboxChecked from 'components/shared/Icons/checkboxChecked';
-import IntermediateCheckbox from 'components/shared/Icons/intermediateCheckbox';
-import TableSettings from './TableSettings';
+import TextLink from '../TextLink/index';
+import CustomCheckBox from '../Icons copy/customCheckbox';
+import CheckboxChecked from '../Icons copy/checkboxChecked';
+import IntermediateCheckbox from '../Icons copy/intermediateCheckbox';
+import TableSettings from './TableSettings'; 
 import messages from './messages';
 import {
   headerRowStyles,
