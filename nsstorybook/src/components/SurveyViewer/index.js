@@ -17,8 +17,8 @@ import Avatar from '@material-ui/core/Avatar';
 import Chip from '@material-ui/core/Chip';
 import Grid from '@material-ui/core/Grid';
 
-import SmallRightArrow from 'components/shared/Icons/smallRightArrow';
-import Section from 'components/shared/SurveyViewer/section';
+import SmallRightArrow from '../Icons copy/smallRightArrow';
+import Section from '../SurveyViewer/section';
 import moment from 'moment';
 import {
   styles,

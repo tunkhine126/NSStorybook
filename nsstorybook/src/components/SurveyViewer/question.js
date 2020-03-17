@@ -13,7 +13,7 @@ import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
 import Grid from '@material-ui/core/Grid';
 
-import globalMessages from 'messages';
+import globalMessages from '../../messages';
 import { styles } from './styles';
 import messages from './messages';
 
